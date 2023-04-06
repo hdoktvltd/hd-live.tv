@@ -101,8 +101,8 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="",& PRIVE HD
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
-#EXTINF:-1,PTV SPORTS
-https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_360p/chunks.m3u8
+#EXTINF:-1,T SPORTS
+http://priotomo.com:8080/TSportsHD/tracks-v1a1/mono.m3u8?token=35ebe6c21edbd681cf2cfdfe2c98d2f32e2c29e5-67d100250fa4fa5f3bfa54c0aa55b9ae-1680786909-1680776109
 #EXTINF:-1,PTV SPORTS
 https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chunks.m3u8
 #EXTINF:-1,Manoranjan Movies
@@ -134,7 +134,7 @@ http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/11.m3u8
 #EXTINF:-1 ,Jamuna TV
 http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/8.m3u8
 #EXTINF:-1 ,Star Jalsha HD
-http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/27.m3u8
+http://priotomo.com:8080/StarJalshaHD/tracks-v1a1/mono.m3u8?token=f958c5da49eac336d5314daafe0a6a3adef1934a-28776675f9375dec68919c3149fb1d46-1680786775-1680775975
 #EXTINF:-1 ,Zee Bangla
 http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/26.m3u8
 #EXTINF:-1 ,HBO
