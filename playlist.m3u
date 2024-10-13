@@ -8,6 +8,13 @@ http://172.16.29.34/ontest1/ontest1/181
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="Grope Name", T Sports 2
 http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8  
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7EZRLDQROT1nnldnYx7bEok8jZlTpyZRabw&s" group-title="Grope Name", Ekhon TV
+https://app.jagobd.com.bd/live-orgin/atnbd-8-org.stream/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnMKVpeK2Tr5I1Q60MFZLd3qvKqsToaibeqw&s" group-title="Grope Name", atn islamic tv
+https://app.jagobd.com.bd/live-orgin/atnislamictv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpPDYYVpbP5TfpstxPfmhMr1yyAzJnEchbmA&ss" group-title="Grope Name", atn music tv
+https://app.jagobd.com.bd/live-orgin/atnmusic.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEchGXENuMwBTg5Fn1t9IGfcG3Cv0-WN1AOdgjbsIs7wCCvC0A980QHpAd&s=10",A Sports  	
 http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8 
