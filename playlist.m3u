@@ -22,23 +22,19 @@ https://app.jagobd.com.bd/live-orgin/atnws-sg.stream/playlist.m3u8
 https://app.jagobd.com.bd/live-orgin/banglav000.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRolDN7hw9bMgAWC21dncaDVziaK9VrA5oEWbYNaut0nxGJpEfVanF2S5IC8BVbm7xrlXs&usqp=CAU" group-title="Grope Name", Bijoy TV
 https://app.jagobd.com.bd/live-orgin/bijoy00.stream/playlist.m3u8
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/e/e4/Channel_9_HD.png/revision/latest/scale-to-width-down/1151?cb=20230701115510",channel9hd  	
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr3xl7F_IGoi6qVOH480pMDlhrP2VWNLVFMD4x62gLSB3dN4jyI9jit4GielqmK63Ve4M&usqp=CAU",channel 9 hd  	
 https://app.jagobd.com.bd/live-orgin/channel9hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7Tc5lcI5ZrupWfbMgFCrBKjNp6h94H_cSjg&s",channel 24  	
+https://app.jagobd.com.bd/live-orgin/channel24-sg-e8e.stream/playlist.m3u8
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjJKvw5EFtF6fwC6r6YCmIriYGB4pY5h933g&s",channel i  	
+https://app.jagobd.com.bd/live-orgin/channeli-8-org.stream/playlist.m3u8
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSiG_jQRLZUIzzn_7tu7tRwc-CifzQ14hAhw&s",ekattor tv  	
+https://app.jagobd.com.bd/live-orgin/ekattor.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEchGXENuMwBTg5Fn1t9IGfcG3Cv0-WN1AOdgjbsIs7wCCvC0A980QHpAd&s=10",A Sports  	
-http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8 
 
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://eu1-prod-images.disco-api.com/2023/07/18/3f28a637-5677-49fb-ad4d-126248820b5b.png?w=1200&f=PNG&p=true&q=60",TNT Sports 1
-http://1.1usd.tv:34000/ch236/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdNaqAirFMGhN7snmkusBGLPL6nWTZteIDWbfX9VCQlXS  
 
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFxkA5U96lAV8wVJsWYW25eF5cZtjuAh0arIBElPuatg&s", Discovery Bangla 	
-https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHTyIzNmreFModGvh9yt_YMNu6pIFwhKHgrRIK_4Cw8aAwxTQygmnfXIG5&s=10" group-title="Grope Name", Cannel Europe
-https://global.ncare.live/live-orgin/channeleurope.stream/playlist.m3u8 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgAhuvXCgj4E-Z2d87PMxXGQ79SL0qZKMiLQF2UyRJUJ9-YhAR5Lp45fCa&s=10" group-title="Grope Name", Anonda Tv
-http://global.ncare.live/live-orgin/anandatv.stream/playlist.m3u8   
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqMzglzD00vjLUOHR7D9sUki2btBvXn2jlDHippV4W0y7-2iZMWmmTwr0X&s=10" group-title="Grope Name", Jamuna News
 https://global.ncare.live/live-orgin/jamuna-test-sample-ok.stream/playlist.m3u8 
@@ -88,6 +84,20 @@ http://217.20.112.199/colorsbangla/index.m3u8
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQrOMsdkfX7iirtL5LHIosFTqpB8hhdpS7zg&usqp=CAU",SANANDA  	
 http://54.38.79.60:2020/sananda/index.m3u8 
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEchGXENuMwBTg5Fn1t9IGfcG3Cv0-WN1AOdgjbsIs7wCCvC0A980QHpAd&s=10",A Sports  	
+http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8 
+
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://eu1-prod-images.disco-api.com/2023/07/18/3f28a637-5677-49fb-ad4d-126248820b5b.png?w=1200&f=PNG&p=true&q=60",TNT Sports 1
+http://1.1usd.tv:34000/ch236/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdNaqAirFMGhN7snmkusBGLPL6nWTZteIDWbfX9VCQlXS  
+
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFxkA5U96lAV8wVJsWYW25eF5cZtjuAh0arIBElPuatg&s", Discovery Bangla 	
+https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHTyIzNmreFModGvh9yt_YMNu6pIFwhKHgrRIK_4Cw8aAwxTQygmnfXIG5&s=10" group-title="Grope Name", Cannel Europe
+https://global.ncare.live/live-orgin/channeleurope.stream/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgAhuvXCgj4E-Z2d87PMxXGQ79SL0qZKMiLQF2UyRJUJ9-YhAR5Lp45fCa&s=10" group-title="Grope Name", Anonda Tv
+http://global.ncare.live/live-orgin/anandatv.stream/playlist.m3u8   
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz8_XKoGc7ts0rBnQNnEjvtjox5BefdCwSbRXi3kRsPScpMUUAFUnvAd4&s=10" group-title="Grope Name", Tara Bangla Cinema 
 http://103.145.48.150:90/laosat24/taratv/index.m3u8  
