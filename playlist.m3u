@@ -30,20 +30,21 @@ https://app.jagobd.com.bd/live-orgin/channel24-sg-e8e.stream/playlist.m3u8
 https://app.jagobd.com.bd/live-orgin/channeli-8-org.stream/playlist.m3u8
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSiG_jQRLZUIzzn_7tu7tRwc-CifzQ14hAhw&s",ekattor tv  	
 https://app.jagobd.com.bd/live-orgin/ekattor.stream/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://cdn.itvbd.net/contents/cache/images/1200x630x1x1184/uploads/media/2023/07/22/Independent-png-2-6bdef5cbc2e674aa57e6a40841e0c516.png?watermark=media%2F2023%2F07%2F25%2FGPI_Itv-45db956055961edd338dcf1f4063ae9f.png",independent tv
+https://app.jagobd.com.bd/live-orgin/independent-8-org.stream/playlist.m3u8
 
 
 
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqMzglzD00vjLUOHR7D9sUki2btBvXn2jlDHippV4W0y7-2iZMWmmTwr0X&s=10" group-title="Grope Name", Jamuna News
-https://global.ncare.live/live-orgin/jamuna-test-sample-ok.stream/playlist.m3u8 
+https://app.jagobd.com.bd/live-orgin/jamuna-test-sample-ok.stream/playlist.m3u8 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwiWwMF7vz1WjLFI5XDpn1gPsL8F_jekTnZxTTXNTAIBMb34zne0gpmfZa&s=10" group-title="Grope Name", Ekattor Tv
 https://global.ncare.live/live-orgin/ekattor.stream/playlist.m3u8  
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAyTdZ3CVtH8NgfCeE_strcxTltA0JsT3ggheYYSN3BtnuIbpqok2ELKU&s=10" group-title="Grope Name", Somoy News
-https://global.ncare.live/live-orgin/somoyt000011226615544544.stream/playlist.m3u8 
+https://app.jagobd.com.bd/live-orgin/somoyt000011226615544544.stream/playlist.m3u8 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS66EJbmWeAyj7uONQ56IXzLVS4FRNnpxUVDnhQ38noGL-ToulIcKSgalE&s=10" group-title="Grope Name", Movie Bangla 
 https://global.ncare.live/live-orgin/moviebanglalink2.stream/playlist.m3u8 
@@ -55,7 +56,7 @@ https://mytvbangla.com/0.m3u8
 https://fifabd.xyz/STAR7c/RANAPK/star.php?id=51042       
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQizCBUrNdaJoJoXYOM1IdUueKiR85NiRxp7I3u6_IWsnwLJ1GbiXeToZY&s=10" group-title="Grope Name", R Tv
-https://fifabd.xyz/STAR7c/RANAPK/star.php?id=51040 https://fifabd.xyz/STAR7c/RANAPK/star.php?id=51040     
+https://app.jagobd.com.bd/live-orgin/rtv-sg.stream/playlist.m3u8    
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mrBDZCNk/20241008-185807.jpg",Bioshakhi TV
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=e0cfe755&e=.m3u8 
@@ -69,6 +70,25 @@ https://entezeetv.fun/bdcast/hls/index.m3u8?id=1726ae10&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0Ns66Lx8/20241008-190358.jpg",asiantv
 https://mtlivestream.com/asian/ytlive/index.m3u8 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbCjHONvGjRH1T4XqoeSmGSytRsefJnLulMQ&s",gaan bangla
+https://app.jagobd.com.bd/live-orgin/gaanbangla-8-orgd.stream/playlist.m3u8 
+#EXTINF:-1 tvg-logo=https://yt3.googleusercontent.com/QnA-LxyGnZU3TBX68P-BB_kGBvRpmB06Bpq8Yz5wnxQdM0SvxJr7fGJOm2coDM6-DoI4MKRyaw=s900-c-k-c0x00ffffff-no-rj",NEWS 24 
+https://app.jagobd.com.bd/live-orgin/news24local.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThfEIwUQC9dhrPdDlsgXQle8pKo_3pCj57ag&s",n tv
+https://app.jagobd.com.bd/live-orgin/ntvuk00332211.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTshBHuxHD0B7oV_RFOAcAVuJ6YPAeE8nxGzA&s",sa tv
+https://app.jagobd.com.bd/live-orgin/satvoff5666.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Ls0I7UY9msY-B-HqpMc3fKnfDmMDPzM7J0dpPCCPX680Em_Ovo-bSjqZyc08F4ykNEs",MAASRANGA tv
+https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Ls0I7UY9msY-B-HqpMc3fKnfDmMDPzM7J0dpPCCPX680Em_Ovo-bSjqZyc08F4ykNEs",MAASRANGA tv
+https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKfbaZZZ7rdDl1dY8uh97E8kcRiyfzmJNHRtErbVKPkYk2O2imNwT9DyI&s=10" group-title="Grope Name", Star Jalsha
 https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8 
 
@@ -76,7 +96,7 @@ https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
 https://tv.cloudcdn.online/live/00:1A:79:A4:26:62/4280/117.m3u8?hlsid=2144793550&redir=1  
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/5uZAuYDhUt_iliyZjcxhPKY_HQYH7dGbKGDfp8cMtfZN6E56SVK3svaUwhLY35ECWlVfijdgTw=s900-c-k-c0x00ffffff-no-rj" group-title="Grope Name", SONY-AATH HD
-http://45.127.56.3:6699/live/Corpus-POL1/SRV4/1/SONY-AATH/live.mpd 
+http://tv.cloudcdn.me/live.ts?channelId=44150&uid=13433&deviceMac=00:1A:79:00:97:A1 
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCPFzLtC-Af50Jjvuhkn6GkOXLkSae7zU15uKn-jCsSuTwS22WpxaNKPWx&s=10" group-title="Grope Name", Colours Bangla 
