@@ -1,5 +1,6 @@
 #EXTM3U
-
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_1oPyX071UmOX5CAPoTiFuJZrZalEwELfAQ&s",btv bd  	
+https://app.jagobd.com.bd/live-orgin/btvbd-office-sg.stream/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC27WuFcSC_iFmMPSmqMQ-dxVq3hxWEH6ZrHgGCSRtikwnKk4ePpDqwVj-&s=10" group-title="Grope Name", T Sports 1
 https://billing.tfms.xyz/https://fifabd.xyz/TTT/play.m3u8?id=2&q=720  
 
@@ -15,6 +16,14 @@ https://app.jagobd.com.bd/live-orgin/atnbd-8-org.stream/playlist.m3u8
 https://app.jagobd.com.bd/live-orgin/atnislamictv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpPDYYVpbP5TfpstxPfmhMr1yyAzJnEchbmA&ss" group-title="Grope Name", atn music tv
 https://app.jagobd.com.bd/live-orgin/atnmusic.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKZ7hPVm7sMFIklaQdj0UVxhQI4MWD9pc_rQ&s" group-title="Grope Name", atn news tv
+https://app.jagobd.com.bd/live-orgin/atnws-sg.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe7fpjLAW55jtPIwR62TGtFZuj8TQX76folg&s" group-title="Grope Name", Bangla Vision
+https://app.jagobd.com.bd/live-orgin/banglav000.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRolDN7hw9bMgAWC21dncaDVziaK9VrA5oEWbYNaut0nxGJpEfVanF2S5IC8BVbm7xrlXs&usqp=CAU" group-title="Grope Name", Bijoy TV
+https://app.jagobd.com.bd/live-orgin/bijoy00.stream/playlist.m3u8
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/e/e4/Channel_9_HD.png/revision/latest/scale-to-width-down/1151?cb=20230701115510",channel9hd  	
+https://app.jagobd.com.bd/live-orgin/channel9hd.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEchGXENuMwBTg5Fn1t9IGfcG3Cv0-WN1AOdgjbsIs7wCCvC0A980QHpAd&s=10",A Sports  	
 http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8 
