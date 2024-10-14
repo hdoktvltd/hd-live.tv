@@ -3,6 +3,7 @@
 https://app.jagobd.com.bd/live-orgin/btvbd-office-sg.stream/playlist.m3u8 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://play-lh.googleusercontent.com/OAdWU98Ovhev7iMq9SuUb1Q4QTW_i1fMwU_vNPpF1XV7vzvSVL10Fa6GZ4dUy4tuvw=w600-h300-pc0xffffff-pd", T Sports 1	
 https://crichd-live.top/live/tsports/tsfile.php?url=https://live-cdn.tsports.com/live-01/master_1080.m3u8
+https://crichd-live.top/live/tsports/tsfile.php?url=https://live-cdn.tsports.com/live-02/master_1080.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC27WuFcSC_iFmMPSmqMQ-dxVq3hxWEH6ZrHgGCSRtikwnKk4ePpDqwVj-&s=10" group-title="Grope Name", T Sports 2
 https://billing.tfms.xyz/https://fifabd.xyz/TTT/play.m3u8?id=2&q=720  
@@ -12,8 +13,7 @@ https://bdiptv24.com/Toffeelive/live.php?cid=a01c29a24287&chunks=30797978db48da9
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="Grope Name", ptv Sports 
 http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8  
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7EZRLDQROT1nnldnYx7bEok8jZlTpyZRabw&s" group-title="Grope Name", Ekhon TV
-https://app.jagobd.com.bd/live-orgin/atnbd-8-org.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLkAaSWp4lqqpwzbneVWF_JtrMp6Co8igjkA&s" group-title="Grope Name", atn bangla tv
 https://app.jagobd.com.bd/live-orgin/atnbd-8-org.stream/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnMKVpeK2Tr5I1Q60MFZLd3qvKqsToaibeqw&s" group-title="Grope Name", atn islamic tv
@@ -77,6 +77,8 @@ https://app.jagobd.com.bd/live-orgin/news24local.stream/playlist.m3u8
 https://app.jagobd.com.bd/live-orgin/ntvuk00332211.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTshBHuxHD0B7oV_RFOAcAVuJ6YPAeE8nxGzA&s",sa tv
 https://app.jagobd.com.bd/live-orgin/satvoff5666.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7EZRLDQROT1nnldnYx7bEok8jZlTpyZRabw&s" group-title="Grope Name", Ekhon TV
+https://app.jagobd.com.bd/live-orgin/atnbd-8-org.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Ls0I7UY9msY-B-HqpMc3fKnfDmMDPzM7J0dpPCCPX680Em_Ovo-bSjqZyc08F4ykNEs",MAASRANGA tv
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://channels.com.bd/storage/project_files/logo/2024-05-14a_n17156821814310.png",channel s tv
