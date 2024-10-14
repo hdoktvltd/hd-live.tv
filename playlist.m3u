@@ -81,6 +81,37 @@ https://app.jagobd.com.bd/live-orgin/channels.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgAhuvXCgj4E-Z2d87PMxXGQ79SL0qZKMiLQF2UyRJUJ9-YhAR5Lp45fCa&s=10" group-title="Grope Name", Anonda Tv
 http://global.ncare.live/live-orgin/anandatv.stream/playlist.m3u8 
 
+#EXTINF:-1 ,tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_k2OVT9KlclMpcDC7BtSActMWKbSRrJ6mF6yKk0dcDDAw=s900-c-k-c0x00ffffff-no-rj" NRB TV 
+https://app.jagobd.com.bd/live-orgin/nrb-eu.stream/playlist.m3u8
+
+#EXTINF:-1 ,tvg-logo="https://yt3.googleusercontent.com/2kw8s66dhLUegJ3XrqZSkZMfp77CRhCfYm1NurDwDB2L9sT_-CaoUix_iWjoE_t66b07JzoR=s900-c-k-c0x00ffffff-no-rj" NASA TV 
+https://app.jagobd.com.bd/live-orgin/nasatv.stream/playlist.m3u8
+
+#EXTINF:-1 ,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThryorwncaL7zMRfmTxdxfjUrXw6MslbKeWxX0Slu_dNZgBLF3PCruhV8&s=10" NAN TV 
+https://app.jagobd.com.bd/live-orgin/nantv.stream/playlist.m3u8
+EXTINF:-1 ,tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kmrep5J46DnClPnWJl_LrJrPVNTytgp1tBgu5oYm-eLw=s900-c-k-c0x00ffffff-no-rj"JonmoBhumi TV
+https://app.jagobd.com.bd/live-orgin/jonmobhumitv.stream/playlist.m3u8
+#EXTINF:-1 ,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ1tH7un196PJNQqEHq3PxhGUmyK8RFP-EXwdNOMoM3q-aWyUqKQiG4XE&s=10"Jagoroni TV 
+https://app.jagobd.com.bd/live-orgin/jagoronitv.stream/playlist.m3u8  
+#EXTINF:-1 ,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-0sgVq8xyxEB1S_cWW64OuQIGU07rtGZh9PaNruJ9ZA5ruemPqpcpm3o&s=10" Green TV 
+https://global.ncare.live/live-orgin/greentv.stream/playlist.m3u8 
+#EXTINF:-1 ,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZgixQv_Sfx5EOwxqmbDMmOKzea2uu3rRc-FUxQjH3OaFDB1ls0rNW5yQ&s=10" Rajdhani TV
+https://app.jagobd.com.bd/live-orgin/rajdhanitv.stream/playlist.m3u8
+#EXTINF:-1 ,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVI96wPeTHqLcw6llD9KP6Obnpu7R3ByXVvcjiOWixU-J_cxYt_q1fB6jW&s=10" Varendra TV 
+https://app.jagobd.com.bd/live-orgin/varendratv.stream/playlist.m3u8 
+#EXTINF:-1 ,tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/Bangla_TV_Logo.png" Bangla TV 
+https://app.jagobd.com.bd/live-orgin/banglatvhd.stream/playlist.m3u8
+#EXTINF:-1 ,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo70-sxW1iAFj1mQxFX7U6tC08rwFq0lZqV0MdpCZrEXrtHQslnKDi5v4J&s=10" Biswa Bangla 24 
+https://app.jagobd.com.bd/live-orgin/biswabanglatv.stream/playlist.m3u8
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4dg3Md9Z/image.png" group-title="Grope Name", amar bangla
 https://live-stream.utkalbongo.com/utkalbongo/stream10/hls/amarbangla.m3u8
 #EXTINF:-1 tvg-logo="https://bdixtv24.com/uploads/tv_image/amar-digital.png" group-title="Grope Name", amar-digital
@@ -105,6 +136,9 @@ https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCPFzLtC-Af50Jjvuhkn6GkOXLkSae7zU15uKn-jCsSuTwS22WpxaNKPWx&s=10" group-title="Grope Name", Colours Bangla 
 http://217.20.112.199/colorsbangla/index.m3u8 
+
+#EXTINF:-1 ,tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Sony_Aath_new.png/225px-Sony_Aath_new.png"Sony Aath 
+https://tv.cloudcdn.online/live/00:1A:79:A4:26:62/4280/44150.m3u8
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQrOMsdkfX7iirtL5LHIosFTqpB8hhdpS7zg&usqp=CAU",SANANDA  	
 http://54.38.79.60:2020/sananda/index.m3u8 
