@@ -1,0 +1,802 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  
+
+  <link rel="icon" type="image/png" href="https://static.vecteezy.com/system/resources/previews/010/148/316/original/tv-icon-sign-symbol-design-free-png.png" sizes="32x32">
+  
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tigerhub featuring Jagobd Web</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #010093;
+            color: #fff;
+            text-align: center;
+            padding: 20px;
+        }
+
+        h1 {
+            margin: 0;
+        }
+
+        main {
+            padding: 20px;
+        }
+
+        footer {
+            background-color: #00b303;
+            color: #fff;
+            padding: 10px;
+            text-align: center;
+        }
+
+        ul.social {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        ul.social li {
+            display: inline;
+            margin-right: 10px;
+        }
+
+        ul.social li a {
+            color: #fff;
+            text-decoration: none;
+        }
+
+        .search-container {
+            position: relative;
+            width: 100%;
+            max-width: 600px;
+            margin: auto;
+            margin-bottom: 20px;
+        }
+
+        .search-box {
+            width: calc(100% - 110px); /* Adjusted width to accommodate the button */
+            padding: 12px 20px;
+            border: 2px solid #ccc;
+            border-radius: 25px;
+            outline: none;
+            font-size: 16px;
+            transition: all 0.3s ease-in-out;
+        }
+
+        .search-box:focus {
+            border-color: #ff6600;
+            box-shadow: 0 0 10px rgba(255, 102, 0, 0.3);
+        }
+
+        .search-button {
+            position: absolute;
+            right: 10px;
+            padding: 16px 20px;
+            background-color: #ff0000;
+            color: #fff;
+            border: none;
+            border-radius: 25px;
+            cursor: pointer;
+            outline: none;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            transition: all 0.3s ease-in-out;
+        }
+
+        .search-button:hover {
+            background-color: #ff6600;
+        }
+
+        .product-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+            gap: 20px;
+        }
+
+        .product {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 5px 10px rgba(0, 0, 0, 0.5);
+            text-align: center;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            cursor: pointer;
+            text-decoration: none;
+        }
+
+        .product img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 5px;
+        }
+
+        .product h2 {
+            margin: 10px 0;
+            color: #000;
+            text-decoration: none;
+        }
+
+        .no-products {
+            text-align: center;
+            font-size: 1.5em;
+            color: red;
+            margin: 20px 0;
+        }
+
+        @media (max-width: 767px) {
+            .product-grid {
+                grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+                gap: 20px;
+            }
+
+            .product {
+                padding: 10px;
+            }
+
+            .search-container {
+                margin-bottom: 10px;
+            }
+
+            .search-box {
+                width: calc(100% - 60px); /* Adjusted width to accommodate the button */
+            }
+
+            .search-button {
+                right: 25px;
+            }
+        }
+    </style>
+<link rel="me" href="https://www.facebook.com/mehedi.mishu.1?mibextid=ZbWKwL" />
+<meta name='google-adsense-platform-account' content='ca-host-pub-1556223355139109'/>
+<meta name='google-adsense-platform-domain' content='blogspot.com'/>
+</head>
+<body>
+    <header>
+        <h1>Tigerhub featuring Jagobd Web</h1>
+        <br/>
+        
+<div class="col-md-12">
+<style> 
+.notice-movies{margin-top:3px;background:#ff0000;color:white;position:relative;padding:10px;overflow:hidden;font-family:var(--font-secondary);border-radius:7px}.notice-movies::before{content:'';position:absolute;border-left:17px solid var(--black);border-bottom:17px solid var(--black);border-top:17px solid transparent;border-right:17px solid transparent;left:98px;top:0;z-index:1}.notice-movies::after{content:'Notice:';position:absolute;height:100%;padding:0 6px;line-height:43px;background:Green;color:white;font-family:var(--font-primary);font-weight:600;left:0;top:0} </style>
+<center>
+     <marquee class="notice-movies" scrollamount="4">
+       ➤ Tigerhub featuring Jagobd Web
+     </marquee>
+</center>
+</div>
+
+<br/>
+        
+        <div class="search-container">
+            <input type="text" id="searchBox" placeholder="Search channel..." class="search-box">
+            <button id="searchButton" class="search-button">Search</button>
+        </div>
+    </header>
+
+    <main id="products" class="product-grid">
+        <!-- Product Grid will be generated dynamically -->
+    </main>
+
+    <footer>
+      
+     
+      
+        <ul class="social">
+
+            <div style="text-align: center;"><span style="font-family: arial;"><span style="color: #ffffff;">Powered by:</span> <span style="color: blue;">Mehedi Hassan Mishu</span> </div>
+        </ul>
+    </footer>
+
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            // DOM elements
+            const productsContainer = document.getElementById("products");
+            const searchButton = document.getElementById("searchButton");
+
+            // Product data
+            const products = [
+                
+                { 
+                    name: "Aljazeera", 
+                    image: "https://pbs.twimg.com/profile_images/1818213127286087680/CtPVxlPF_400x400.jpg", 
+                    link: "https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/aljazeera.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAxOjIzOjUxIFBNJmhhc2hfdmFsdWU9MEFaWlhNTk9YV3VwRHk5MjB5RFZIdz09JnZhbGlkbWludXRlcz00MA=="
+                },
+                
+                { 
+                    name: "Ananda Tv", 
+                    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn2PbGFvZGUdHkx1bhbqgFApUkQnS3aBCJRw&s", 
+                    link: "https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAxOjI0OjU0IFBNJmhhc2hfdmFsdWU9TlByNklWS0RraCt4YlpVTy9oNWlvQT09JnZhbGlkbWludXRlcz00MA=="
+                },
+                
+                { 
+                    name: "Asian Tv", 
+                    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6ln4rwXBygeF9uP10EegsLUbJYCUwdRyVffG8JBKnyHrKbfk4NSL0QgGN&s=10", 
+                    link: "https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/asian-test-sample-ok-d.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAxOjI1OjUxIFBNJmhhc2hfdmFsdWU9TVVFa04yS3RRVFFlS21mRVZZOXEzUT09JnZhbGlkbWludXRlcz00MA=="
+                },
+                
+                
+                {
+                    name: "ATN bangla",
+                    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrScGuSxAkZ6XrPxFPKx5feE0E17v0bHmNktgMgi-ybovdmwFWs5pL1FU&s=10",
+                    link: "https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbd-8-org.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAxOjI2OjM1IFBNJmhhc2hfdmFsdWU9ckdKMFk1RUVWZWJ3MTRoZ1RTdTVIZz09JnZhbGlkbWludXRlcz00MA=="
+                },
+                {
+                    name: "ATN bangla Uk",
+                    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-XHBiDZ6csLBytqkYPoJmfUVVZPlxk4QvjIGBBpbk12SiMLJK1tkn6j0z&s=10",
+                    link: "https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAxOjMwOjU2IFBNJmhhc2hfdmFsdWU9bTZ4dERadkVtem5wakRhQTk1SDdHdz09JnZhbGlkbWludXRlcz00MA=="
+                },
+                {
+                    name: "ATN islamic",
+                    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4JPD5hztRxjfYiR5c1wNlZAY6sZiaZAkkZ6Ka9arndt2pZXDtHg_VuJI&s=10",
+                    link: "https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnislamictv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAxOjMxOjQyIFBNJmhhc2hfdmFsdWU9R3M1WDBHRWg4YnVrSlAxU1JOSVE3dz09JnZhbGlkbWludXRlcz00MA=="
+                },
+                
+                {
+                    name: "ATN Music",
+                    image: "https://www.atnmusictv.com/images/logo.png",
+                    link: "https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnmusic.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAxOjMyOjA3IFBNJmhhc2hfdmFsdWU9M09zNWVlVjZwbTNLOXV1NTIweUE4dz09JnZhbGlkbWludXRlcz00MA=="
+                },
+                {
+                    name: "ATN news",
+                    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYJeP3EUwJLq8sjuc_7Nn52Gk_OJxxAMA2uc1yJxR57LHCtcfs-ku51gzj&s=10",
+                    link: "https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnws-sg.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAxOjMzOjEyIFBNJmhhc2hfdmFsdWU9SHlHMndsMERTRHA5SE4weEJ2QnhFUT09JnZhbGlkbWludXRlcz00MA=="
+                },
+                
+                {
+                    name: "B24C",
+                    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4lPPs9QsjYWuIKuwCxclbK7Adi02DQ3PZRqYpUFGgZXKAvcaWqB0Xs9E&s=10",
+                    link: "https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/b24c.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAxOjMzOjQyIFBNJmhhc2hfdmFsdWU9Y3lidFRoL2IrbjhKT01FbHcrZ2gydz09JnZhbGlkbWludXRlcz00MA=="
+                },
+                
+                {
+                    name: "Bangla21 Tv",
+                    image: "https://bangla21.tv/wp-content/uploads/2023/05/Bangla21-tv-Logo.png",
+                    link: "https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/bangla21tv000889956-sg.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAxOjM0OjIzIFBNJmhhc2hfdmFsdWU9a2RSQlRZVHRtODlvQlhENlJUUllyQT09JnZhbGlkbWludXRlcz00MA=="
+                },
+                {
+                    name: "Bangla vision",
+                    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1hPBiCRZEwKM3BMdFnj83x-ltSSDsY3kYpfV6Vzv5fUhC1M_Z10BsovA&s=10",
+                    link: "https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/banglav000.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAxOjM0OjUwIFBNJmhhc2hfdmFsdWU9TzJ6VTVlYk9YbXpJUFZaU2xGYXdwQT09JnZhbGlkbWludXRlcz00MA=="
+                },
+                {
+                    name: "Bijoy Tv",
+                    image: "https://yt3.googleusercontent.com/ytc/AIdro_l6c-PPJ1sgFS7b37M7GXWTsuJhHVO2eh81N2Okr6HGzQ=s900-c-k-c0x00ffffff-no-rj",
+                    link: "https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/bijoy00.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAxOjM2OjM0IFBNJmhhc2hfdmFsdWU9Z2pFOGtuQmRmSVE4Qk9MQVJDbVJ1UT09JnZhbGlkbWludXRlcz00MA=="
+                },
+                {
+                    name: "Biswabangla 24",
+                    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo70-sxW1iAFj1mQxFX7U6tC08rwFq0lZqV0MdpCZrEXrtHQslnKDi5v4J&s=10",
+                    link: "https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/biswabanglatv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAxOjM3OjEyIFBNJmhhc2hfdmFsdWU9aTFRKzhISmFKaWppQTEzZnAyRDM2dz09JnZhbGlkbWludXRlcz00MA=="
+                },
+                
+                {
+                    name: "Boishaki Tv",
+                    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAxonfSS_MlKMUxI_3xw3oDPnl2UabckSQgvKckAH29f5tl2MhGXZaOwM&s=10",
+                    link: "https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/boishakhitv-org.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAxOjM3OjQ2IFBNJmhhc2hfdmFsdWU9QTIzOTgvRHlBTzExYzNhL1VEc2FMUT09JnZhbGlkbWludXRlcz00MA=="
+                },
+                {
+                    name: "Btv World",
+                    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4LcWl2KBSxnPweBbI9OCK51cI_eA6Ij3umg&usqp=CAU",
+                    link: "https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/btvbd-office-sg.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAxOjM4OjMyIFBNJmhhc2hfdmFsdWU9a1puZDg2K1BiVFJrcERmZzJHQVU0dz09JnZhbGlkbWludXRlcz00MA=="
+                },
+                {
+                    name: "CB24",
+                    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPlClWrsXnqhk5d12YgXqLRCwPTFmVFy0hqj2XScnh7M1OSHEJVms7h_E&s=10",
+                    link: "https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/cb24.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAxOjM5OjAxIFBNJmhhc2hfdmFsdWU9ZEJtK3o5WFo2MHIyNTNLczRLTlJ3Zz09JnZhbGlkbWludXRlcz00MA=="
+                },
+                
+                {
+                    name: "CGTN",
+                    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8TvvZUpWJm4riiuzXshk97VF4MSl5YEoKs7HpKpNbURWwrJPb1of2B779&s=10",
+                    link: "https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/cgtn.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAxOjM5OjI5IFBNJmhhc2hfdmFsdWU9ZVhsdUNrbE5mRWRYQk55ZWhuSEl2Zz09JnZhbGlkbWludXRlcz00MA=="
+                },
+                
+                {
+                    name: "CGTN documantry",
+                    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-XOAih0_wZffcfRAt9SIhMHBM_tKG2sj4k0eRF-m92piduyvhwy2LiTZm&s=10",
+                    link: "https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/cgtndoc.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAxOjM5OjU3IFBNJmhhc2hfdmFsdWU9YXNrclN4cFU0d3pGbjBGUzBuNU5HZz09JnZhbGlkbWludXRlcz00MA=="
+                },
+                {
+                    name: "Channel 24",
+                    image: "https://upload.wikimedia.org/wikipedia/commons/9/91/Channel24logo.svg",
+                    link: "https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channel24-sg-e8e.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAxOjQxOjI0IFBNJmhhc2hfdmFsdWU9a1BhK1I3R3hiaHErT2oyVUdsMHN4Zz09JnZhbGlkbWludXRlcz00MA=="
+                },
+                {
+                    name: "Channel 5",
+                    image: "https://upload.wikimedia.org/wikipedia/en/4/4a/Logo_for_the_Web_Channel_Channel_5.jpeg",
+                    link: "https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/batv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAxOjUwOjA4IFBNJmhhc2hfdmFsdWU9bjN0aSswMzJNTU0xKzdzZG42NEVEUT09JnZhbGlkbWludXRlcz00MA=="
+                },
+                {
+                    name: "Channel 9",
+                    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAtibqLaxAkUq2AjMg82-Prpk1rGvY1rXRMPUtPcd1j-H-P6VmkOiD6V0&s=10",
+                    link: "https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channel9hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAxOjUwOjQ1IFBNJmhhc2hfdmFsdWU9Rk5uUlIrUmVhK1JmbmYxd2dVd3lhZz09JnZhbGlkbWludXRlcz00MA=="
+                },
+              {
+                    name: "Channel A1",
+                    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHghA-axG3PTV1pV4mRg4NNKVzBKLVeP6vOQ&s",
+                    link: "https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/cha1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAxOjUxOjE0IFBNJmhhc2hfdmFsdWU9eG1hdCtPMjNvWHR3NVRodmloSEFzdz09JnZhbGlkbWludXRlcz00MA=="
+                },
+                {
+                    name: "Channel Europe",
+                    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSiw3LQx9aOT6AtDERYNLe83JgoUcINa5vFA&usqp=CAU",
+                    link: "https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channeleurope.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAxOjUxOjQ4IFBNJmhhc2hfdmFsdWU9aUVWZ0tYWm5GdHlIMDBQWi9HY29vZz09JnZhbGlkbWludXRlcz00MA=="
+                },
+                {
+                    name: "Channel S",
+                    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxT37QeLoNwrMrzrL8NUx_sA4tyZw0hnHoqF5RhwENo_TOP2Z29HYAMAk&s=10",
+                    link: "https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAxOjUyOjE5IFBNJmhhc2hfdmFsdWU9WmZtWjduWUlkdW1zMzlka25mZy9iQT09JnZhbGlkbWludXRlcz00MA=="
+                },
+                {
+                    name: "Channel S Uk",
+                    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIxk_bi1E3HyR250jdF2bpdHWWl9CJqErcE3vHWJXjYeA3vGS_lsMGGMg&s=10",
+                    link: "https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/chsukoff.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAxOjUyOjU0IFBNJmhhc2hfdmFsdWU9aGRGTVZ1a0RhWjRoN0htaWg1WStDdz09JnZhbGlkbWludXRlcz00MA=="
+                },
+                {
+                    name: "Channel I",
+                    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTwGLCfj_4aqfYAYHzRZvLdDtBorhVPWzOl6BU61UzxXPwROv4exE2Aas&s=10",
+                    link: "https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channeli-8-org.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAxOjUzOjIzIFBNJmhhc2hfdmFsdWU9QSsvTFNZQWxOblhKaHhWcmtrdjIzZz09JnZhbGlkbWludXRlcz00MA=="
+                },
+                {
+                    name: "Colosal tv",
+                    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUo6PP5OsgPz3Q7DtjFRJRHdTAc2j_NsLhwkfBtbBWbYeMO1pUFHcLQGE&s=10",
+                    link: "https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/colosal.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAxOjUzOjUzIFBNJmhhc2hfdmFsdWU9bTFPVjNHNVRLMGRXRUt0S2pheFVldz09JnZhbGlkbWludXRlcz00MA=="
+                },
+                {
+                    name: "CSB news Usa",
+                    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCcuwWw4UToBsjufzZWxLe4Tyo0VkRSIf8rsf5bO6SqLxkf2sU0W39Crk&s=10",
+                    link: "https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/csbnews.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAxOjU0OjI3IFBNJmhhc2hfdmFsdWU9NkhMcm5ObHJVTWxGait1M1dJQmZjQT09JnZhbGlkbWludXRlcz00MA=="
+                },
+                {
+                    name: "DBC News",
+                    image: "https://yt3.googleusercontent.com/ytc/AIdro_mcjICfjqYwOn4eljNmtsZLBpOmW0t0JlzJUhXSslAkBVo=s900-c-k-c0x00ffffff-no-rj",
+                    link: "https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAxOjU0OjU2IFBNJmhhc2hfdmFsdWU9REU2TU9UQUZZcGZjQmFSZ0FOUnZUQT09JnZhbGlkbWludXRlcz00MA=="
+                },
+                {
+                    name: "Deen Tv",
+                    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqNkoRNI58-WEYEJ6IGoCszOkHHBpA41RXNTZfDiszJxwgnYFhGfXRTqym&s=10",
+                    link: "https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/deentv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAxOjU1OjI4IFBNJmhhc2hfdmFsdWU9TmoxQUcwdUdzQWFzUFNleWVwVmJvdz09JnZhbGlkbWludXRlcz00MA=="
+                },
+                {
+                    name: "Desh Tv",
+                    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4CfF8DO73YRrwEy8BaKuc769Th5lZI9d5NVCVHoxEPWnGiqHtl35S2PC8&s=10",
+                    link: "https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/deshtv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAxOjU2OjE5IFBNJmhhc2hfdmFsdWU9cXA4VkUxd1NQbm5jTlZtNFdUZnJvdz09JnZhbGlkbWludXRlcz00MA=="
+                },
+                {
+                    name: "Deshe Bideshe",
+                    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfepcCpP7vETFgkW10gFDGEGPaxgBUVt2291i9oNYVS7I2y6SUpd6lpLA&s=10",
+                    link: "https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/deshebideshe.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAxOjU2OjQ1IFBNJmhhc2hfdmFsdWU9YW9KbDVXQUVnNUFxalEzQUpRWHE5QT09JnZhbGlkbWludXRlcz00MA=="
+                },
+                {
+                    name: "DIM Tv",
+                    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7TUXEivflv4vSDbliuq1XSoX8tRTxxcRgNt4NTYoqXgX-oNE1NvtGKak&s=10",
+                    link: "https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/dimtv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAxOjU4OjE0IFBNJmhhc2hfdmFsdWU9MllWTllEWkhrVTdLQ1grcUZUYk5Hdz09JnZhbGlkbWludXRlcz00MA=="
+                },
+                {
+                    name: "Discover Pakistan",
+                    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNVygCfLDFYP-6oMQAL_nDXug52nYG0K7lLOPhONsE1JXnzmhzLL9sZaic&s=10",
+                    link: "https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/discoverpakistan.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAxOjU4OjQxIFBNJmhhc2hfdmFsdWU9UEFnSHZnbVJzZFJKSEl6WjBKdlAxZz09JnZhbGlkbWludXRlcz00MA=="
+                },
+                {
+                    name: "DW News",
+                    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png",
+                    link: "https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/dwnews.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAxOjU5OjA5IFBNJmhhc2hfdmFsdWU9UUpkN3cvbndnT2hmOU5WTWhPL2UzUT09JnZhbGlkbWludXRlcz00MA=="
+                },
+                {
+                    name: "Ekattor Tv",
+                    image: "https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/1200px-Ekattor_TV_logo.svg.png",
+                    link: "https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ekattor.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAyOjAwOjAyIFBNJmhhc2hfdmFsdWU9WVBqZTFjT0VPdkdudW9NMEtpT2ROQT09JnZhbGlkbWludXRlcz00MA=="
+                },
+                {
+                    name: "Ekhon Tv",
+                    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh8982qM-EskoAcbJM3MZO9-Hz7CeTTtUTQULWuWbQKMIQkiv4zT6dMzTA&s=10",
+                    link: "https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAyOjAwOjM3IFBNJmhhc2hfdmFsdWU9SFF5a2NLOGhOa2tqdGsweDcvK3B4dz09JnZhbGlkbWludXRlcz00MA=="
+                },
+                {
+                    name: "Ekushey Tv",
+                    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhuHJR0tzeTyoc6XnWJgNddJWkmt5y0spfHw&s",
+                    link: "https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ekusheytv-8-org.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAyOjAxOjA4IFBNJmhhc2hfdmFsdWU9TnE0YWV0eGZtQ2c2d2w5ZGNFc2RYUT09JnZhbGlkbWludXRlcz00MA=="
+                },
+                {
+                    name: "France24",
+                    image: "https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png",
+                    link: "https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/fr24.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAyOjAxOjQ4IFBNJmhhc2hfdmFsdWU9RUlUUVI0N04ydEFGR1lkOVJjdTBtQT09JnZhbGlkbWludXRlcz00MA=="
+                },
+                {
+                    name: "Freedom Tv",
+                    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTqRXsr-tJ2XOVEmGBOav2FFe67288UI4kl3KQqrmXz37QR95e45bYHxw&s=10",
+                    link: "https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/uatv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAyOjAyOjE0IFBNJmhhc2hfdmFsdWU9d1ZQY2ZvNGxiUWUvOEdFZnJuelBFdz09JnZhbGlkbWludXRlcz00MA=="
+                },
+                {
+                    name: "Gaan Bangla",
+                    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWgXsN_LI4Nv4uBC4ChcLuU53qgpxpTPzI3X209zyJtpAFIrP5mGIRT_6K&s=10",
+                    link: "https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gaanbangla-8-orgd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAyOjAzOjE2IFBNJmhhc2hfdmFsdWU9U0FWekV1UHlZKzliZTlndkJ6QzNVZz09JnZhbGlkbWludXRlcz00MA=="
+                },
+                {
+                    name: "IBTV Usa",
+                    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrbTWpWJeliwvD0dfuBRK8yT97HK5NCoQ923XlyyXWJnXwfvUCmQYQ4SY&s=10",
+                    link: "https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ibtvus.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAyOjA0OjAwIFBNJmhhc2hfdmFsdWU9eTdsM20vR1lZMTl1Y1BOMWdXeDFUUT09JnZhbGlkbWludXRlcz00MA=="
+                },
+                {
+                    name: "Aamar Bangla",
+                    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmfQOJ6iuEWfBMiUwVK1izVj0dH2XHvc9GFchFhtPBbvPoxkeL3KIgxb8&s=10",
+                    link: "https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/amarbanglatv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAyOjA0OjI3IFBNJmhhc2hfdmFsdWU9enFoellOakNyTFFvTGNGdkJzQTg3dz09JnZhbGlkbWludXRlcz00MA=="
+                },
+                {
+                    name: "Aamar Digital",
+                    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ08hTp6keN-deuPQacFKhi1J_oHRzjODUya3wLzcun0ysC7mXd8HEliouC&s=10",
+                    link: "https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/amardigital.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAyOjA0OjU0IFBNJmhhc2hfdmFsdWU9TXljZGx5T0lTT01HOHBySlFGTitlZz09JnZhbGlkbWludXRlcz00MA=="
+                },
+                {
+                    name: "Ananda Barta",
+                    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjXmiBDBagGfR57EvlZHtp3xmCnDjo62VptNMZas9bmmzOoG12Batxqaw&s=10",
+                    link: "https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/anandabarta.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAyOjA1OjI4IFBNJmhhc2hfdmFsdWU9Qk5LTVA3a2h2TTBLZXlSRk5BSE9LUT09JnZhbGlkbWludXRlcz00MA=="
+                },
+                {
+                    name: "Express news",
+                    image: "https://store-images.s-microsoft.com/image/apps.10044.14207835222003166.f0f43033-ffae-4617-b265-7d9fba4099e6.88dc10f9-e69e-49d8-9947-a434a98551ae",
+                    link: "https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/expressnews.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAyOjA1OjU3IFBNJmhhc2hfdmFsdWU9TkY0OUFaclh2VkNwNDhhazN2SkhLZz09JnZhbGlkbWludXRlcz00MA=="
+                },
+                {
+                    name: "Home Tv",
+                    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJCi1mcoT9XVuev5K-nS3f7N8_txUnu5hOb4NnOh1kXYQaIAQEODJE8mEI&s=10",
+                    link: "https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/hometv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAyOjA2OjI4IFBNJmhhc2hfdmFsdWU9dWVSNVB0UStpckt3a1M0UWxOQ0w2QT09JnZhbGlkbWludXRlcz00MA=="
+                },
+                {
+                    name: "Mon Tv",
+                    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhwZQFXi9vdY39Mc6-Fd2Bv1IuweN5oE7Fg3L4SjsFtXCDmJmUFOxRnqM&s=10",
+                    link: "https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/montv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAyOjA3OjU2IFBNJmhhc2hfdmFsdWU9cko0a2ZqbmIyTkl4SS9qM1kvOEsrZz09JnZhbGlkbWludXRlcz00MA=="
+                },
+                {
+                    name: "Zodiak Tv",
+                    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSujDc3JY8KFHgPi-7YRG5ogM6ZP8EgIwvPWN1Dtdxs_p0IPQ2vH8H1tuU&s=10",
+                    link: "https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/zodiaktv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAyOjA4OjQ5IFBNJmhhc2hfdmFsdWU9dzF3N3pIaEtLRjZQbk55K1NwTG1jUT09JnZhbGlkbWludXRlcz00MA=="
+                },
+                {
+                    name: "Independent Tv",
+                    image: "https://yt3.googleusercontent.com/5J5NFuXWxr4iUv3nxWF0genblTzZ8wU5N9NjxvZdOKkGs1U3Y_KqrojCJ5Id4N9pFeIZ3uyCKkk=s900-c-k-c0x00ffffff-no-rj",
+                    link: "https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/independent-8-org.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAyOjA5OjU2IFBNJmhhc2hfdmFsdWU9QnB3MFlOZ2Z1WWlmRzd2TFArcDJvUT09JnZhbGlkbWludXRlcz00MA=="
+                },
+                {
+                    name: "Ion Tv",
+                    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIweY-wyEYsJON0inPkWpELP8NVhiNwp7j02cGAZkxqyu9QaeSlKrAAZs&s=10",
+                    link: "https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/iontvuk.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAyOjEwOjIxIFBNJmhhc2hfdmFsdWU9cVE0N1I0Y1l4VEFwdElsdVhraGpBdz09JnZhbGlkbWludXRlcz00MA=="
+                },
+                {
+                    name: "Iqra Bangla Tv",
+                    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-F9qOAslDQXhrMkoK__hCm7U_jV9kxwl0nmL3auxIapthulhb1mAgLJk&s=10",
+                    link: "https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/iqrabanglatvoffice.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAyOjEwOjQ3IFBNJmhhc2hfdmFsdWU9NXptSEdGV1hVVFVMaFE4aUxIZjRsQT09JnZhbGlkbWludXRlcz00MA=="
+                },
+                {
+                    name: "Islam Channel",
+                    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLXhpPAqp_BvxQsA_8juUr-7n_Px09cqqFRjBcFYZLF2vTjJCnfZz9QW0&s=10",
+                    link: "https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/islamchbangla.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAyOjExOjM5IFBNJmhhc2hfdmFsdWU9YmVqc0QxdFQ4eUFDWHI2bFZIR1EwUT09JnZhbGlkbWludXRlcz00MA=="
+                },
+                
+                {
+                    name: "Jagonews24",
+                    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeuamIUI1xe_MfBvJZV35kRpYd3-R018YIIshcsZL2wLJTcNTrFs5Mx65-&s=10",
+                    link: "https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jagonews24.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAyOjEyOjA5IFBNJmhhc2hfdmFsdWU9S3JhWmdvaXBlUEZtUFRvL082dWxRdz09JnZhbGlkbWludXRlcz00MA=="
+                },
+                {
+                    name: "Jagoroni Tv",
+                    image: "https://yt3.googleusercontent.com/7OoaGkZcxZ0Drih8AEU1bcQsWKEtW9iAUBVXVNSVtP6-2RpYzY1WmSySx4bbcgZhXJEtSSv3nfQ=s900-c-k-c0x00ffffff-no-rj",
+                    link: "https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jagoronitv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAyOjEyOjM4IFBNJmhhc2hfdmFsdWU9VTRFSVdhQjYyN0U4cTRLdnRXcVNNQT09JnZhbGlkbWludXRlcz00MA=="
+                },
+                {
+                    name: "Jamuna Tv",
+                    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqMzglzD00vjLUOHR7D9sUki2btBvXn2jlDHippV4W0y7-2iZMWmmTwr0X&s=10",
+                    link: "https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jamuna-test-sample-ok.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAyOjEzOjA0IFBNJmhhc2hfdmFsdWU9V2RHUytHbEVkdEZhZ0Q2bGwwY3IyUT09JnZhbGlkbWludXRlcz00MA=="
+                },
+                {
+                    name: "Jonmobhumi Tv",
+                    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQVqZfgDAowcJHAFGRBrihS07WxUB6pX6dTkzjvOYjLEWijMxtjQv_ONyJ&s=10",
+                    link: "https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jonmobhumitv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAyOjEzOjM1IFBNJmhhc2hfdmFsdWU9ZDhHMzdkejZ6MHRMeXpmL0xseXl1dz09JnZhbGlkbWludXRlcz00MA=="
+                },
+                {
+                    name: "Madani Channel Bangla",
+                    image: "https://madanichannelbangla.tv/img/img/logo/b-logo.png",
+                    link: "https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/madanitvbangla.stream1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAyOjE0OjA5IFBNJmhhc2hfdmFsdWU9OS82QmVqb1BEUHV6Ui9YR1BDMXYvZz09JnZhbGlkbWludXRlcz00MA=="
+                },
+                {
+                    name: "Makkah Live",
+                    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS72YhkmzGLb4Vg4Yo-X3aO5oDB63C_2QhfHw&usqp=CAU",
+                    link: "https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/makkah.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAyOjE0OjQ0IFBNJmhhc2hfdmFsdWU9djU0Nmlhb2JuT3ZBYi9vOFpJanVGUT09JnZhbGlkbWludXRlcz00MA=="
+                },
+                {
+                    name: "Makkah TV",
+                    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjz8wsId7dO6lWWqJkvNSZM5tOSPbk_qtecg&s",
+                    link: "https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/makkahtv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAyOjE1OjA5IFBNJmhhc2hfdmFsdWU9UVdyZzFGcUtOeEVwK3RrUnllOGhqUT09JnZhbGlkbWludXRlcz00MA=="
+                },
+                {
+                    name: "Matribhumi Tv",
+                    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQttOoq1gC8VFet-OuGNB-kwAdoxMPCkgsEyh7DOQr0mLmXb6wRbE8-J22l&s=10",
+                    link: "https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/matribhumitv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAyOjE1OjQ3IFBNJmhhc2hfdmFsdWU9QkhXNU5ERXRJSkM4bFB4LzVDazNnUT09JnZhbGlkbWludXRlcz00MA=="
+                },
+                {
+                    name: "Madina Live",
+                    image: "https://i.ytimg.com/vi/Kt7hKHlArl8/maxresdefault.jpg",
+                    link: "https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/madina.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAyOjE2OjE4IFBNJmhhc2hfdmFsdWU9NnJQR3BZUld1V3FnQVAwYmJsUGNnUT09JnZhbGlkbWludXRlcz00MA=="
+                },
+                {
+                    name: "Millennium 24",
+                    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuDafCujAzwZrwZmqhIBzS6aDZQzep9TrURWAzsPS6zK61Nv3iqoBDUpQ&s=10",
+                    link: "https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/mnews24.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAyOjE2OjQ2IFBNJmhhc2hfdmFsdWU9U1NMWm83ZXRpOWNTYkNGTFozbVBmQT09JnZhbGlkbWludXRlcz00MA=="
+                },
+                {
+                    name: "Millennum Tv",
+                    image: "https://play-lh.googleusercontent.com/k2pZI4ICzAXwZVzMpB232mOwKAzGBrsWQ-ctp0xZjiVAm_n7pb89afOYrrvRZRoNQqE",
+                    link: "https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/millenniumtv-odr-up2.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAyOjE3OjExIFBNJmhhc2hfdmFsdWU9Q2JUMVBjenI1TG1RUlYvL1hucjJNUT09JnZhbGlkbWludXRlcz00MA=="
+                },
+                {
+                    name: "Mohona Tv",
+                    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1H8UOKMz_eLkCQRObRtbAhJmJX96Uq27DJw&s",
+                    link: "https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/Mohona-g.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAyOjE3OjQzIFBNJmhhc2hfdmFsdWU9TEJ4ZmNFMkRMSEZJWHkzcGtTNzFYZz09JnZhbGlkbWludXRlcz00MA=="
+                },
+                {
+                    name: "Movie Bangla",
+                    image: "https://moviebangla.tv/wp-content/uploads/2024/06/moviebanglatv-logo-2.png",
+                    link: "https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/moviebanglalink2.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAyOjE4OjI2IFBNJmhhc2hfdmFsdWU9U25hNWJTYXgrdnkzVWVpb002OHVlUT09JnZhbGlkbWludXRlcz00MA=="
+                },
+                {
+                    name: "My Tv",
+                    image: "https://yt3.googleusercontent.com/ytc/AIdro_lDIrPets2sL60aHssqiKPYPG_hKToPg-pWEEwCiuujfUM=s900-c-k-c0x00ffffff-no-rj",
+                    link: "https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/mytv-up-off.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAyOjE4OjU2IFBNJmhhc2hfdmFsdWU9a3lza1NOUVpsQlQ3TWQyS1VRSnBuQT09JnZhbGlkbWludXRlcz00MA=="
+                },
+                {
+                    name: "Nan Tv",
+                    image: "https://yt3.googleusercontent.com/EUfH-zm--KHbNr1vUG6MP7QLaH1Yeutc7w-doCn7Ty1b2w0kKvaV_tkjCVIliYkpqiMAIT7EEx8=s900-c-k-c0x00ffffff-no-rj",
+                    link: "https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nantv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAyOjE5OjI4IFBNJmhhc2hfdmFsdWU9M1RVdDdyaGl4VHVUZS9WNno4aG8wZz09JnZhbGlkbWludXRlcz00MA=="
+                },
+                {
+                    name: "News24 Tv",
+                    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ9vCfFbqpuVoZF9Tk8smaYTAotzxFkc52vQ&s",
+                    link: "https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/news24local.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAyOjE5OjUzIFBNJmhhc2hfdmFsdWU9dDV2TlpGTUFWUzYyODZndmtsOGphUT09JnZhbGlkbWludXRlcz00MA=="
+                },
+                {
+                    name: "Nexus Tv",
+                    image: "https://yt3.googleusercontent.com/D5LEgc-aqNfJJy0RD3PzvF7xXSsTSuVlUQ1cSnCmnAIgbBP7a17h8KakJIqdn2Os2LCfj-s0Eg=s900-c-k-c0x00ffffff-no-rj",
+                    link: "https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nexustv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAyOjIwOjIxIFBNJmhhc2hfdmFsdWU9VWVwYUp6WUVtcGpRaEFUaFNuY21IQT09JnZhbGlkbWludXRlcz00MA=="
+                },
+              {
+                    name: "NRB Tv",
+                    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHbR2rO29DPXH9uRBYjxDUyEb8Tq645_FSWQ&usqp=CAU",
+                    link: "https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nrb-eu.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAyOjIwOjQ3IFBNJmhhc2hfdmFsdWU9QWIrcEtJNlV1aUhaSUlOdGcreWFKQT09JnZhbGlkbWludXRlcz00MA=="
+                },
+              
+              {
+                    name: "Times24 Tv",
+                    image: "https://www.jagobd.com/wp-content/uploads/2020/04/TIMES-24-TV.jpg?x67896",
+                    link: "https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/times24tv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCA0OjUzOjI2IFBNJmhhc2hfdmFsdWU9cEtTekllS3IxakN0YjYrdHNXNmsxQT09JnZhbGlkbWludXRlcz00MA=="
+                },
+              
+              {
+                    name: "NTV Europe",
+                    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7Fl-hrupBb90hSNLoOmqCE8VIpMGcOPjlJA&s",
+                    link: "https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAyOjIxOjE1IFBNJmhhc2hfdmFsdWU9VVp0OWNxYjN5TlRUc0t5WmNTUFVKUT09JnZhbGlkbWludXRlcz00MA=="
+                },
+              {
+                    name: "Peace Tv Bangla",
+                    image: "https://yt3.googleusercontent.com/ytc/AIdro_k88jLwmjSaitUMdAsGOmyErDi6naNjWIyPO0MiFxnlYw=s900-c-k-c0x00ffffff-no-rj",
+                    link: "https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/peacetvban.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAyOjIxOjQ3IFBNJmhhc2hfdmFsdWU9UGR2UDJaYTJ6eHI3YmhzRjYxR0tOZz09JnZhbGlkbWludXRlcz00MA=="
+                },
+              
+              {
+                    name: "Rajdhani Tv",
+                    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZgixQv_Sfx5EOwxqmbDMmOKzea2uu3rRc-FUxQjH3OaFDB1ls0rNW5yQ&s=10",
+                    link: "https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/rajdhanitv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAyOjIyOjIzIFBNJmhhc2hfdmFsdWU9bkFoeVdNZGJYWEhoeEFwajRGMGhBdz09JnZhbGlkbWludXRlcz00MA=="
+                },
+                
+                {
+                    name: "RTV",
+                    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1LJLVkY8wZBI7QP8GW1t2uQpKYcG3WUuCgA&s",
+                    link: "https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/rtv-sg.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAyOjIzOjA2IFBNJmhhc2hfdmFsdWU9Q1VNRnJzRVVJWDI3QU5jZXgyVjR3dz09JnZhbGlkbWludXRlcz00MA=="
+                },
+                {
+                    name: "RTV Music",
+                    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6rImdFRtlPF-DZp-ZOtVbuJM3s-ASFt1b9edyxpIgTTDM89mWddjzTJle&s=10",
+                    link: "https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/rtvmusic.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAyOjIzOjI4IFBNJmhhc2hfdmFsdWU9SjVEckpiWUx2bmt6Vy9vcnQ2SUhJdz09JnZhbGlkbWludXRlcz00MA=="
+                },
+                {
+                    name: "Ruposhi Bangla",
+                    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSakyouXZzQQlBxTHfQoLfftmZAQdxMml3U-29MBo289EXFMjToLKisEXk&s=10",
+                    link: "https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ruposhibangla.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAyOjIzOjU1IFBNJmhhc2hfdmFsdWU9VEtXb3A5WGl1U0UyVW5xeEJ5cERsdz09JnZhbGlkbWludXRlcz00MA=="
+                },
+                
+                {
+                    name: "SA Tv",
+                    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWHlXvuHc8t5Bs0pGVRRbDA6LE7m805PCV1ykQ1q2UG3gLs8aPhYBylCI&s=10",
+                    link: "https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/satvoff5666.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAyOjI0OjI0IFBNJmhhc2hfdmFsdWU9NFVtczdRVy9Jc3NRQmlZVzJVRFhwQT09JnZhbGlkbWludXRlcz00MA=="
+                },
+                
+                {
+                    name: "Salaam Tv",
+                    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_LcQAU2ECAmDSZC-rls69ySB6jP99_zrnWIEig4wjQybFOx8I6YnrOF4&s=10",
+                    link: "https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/salamtv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAyOjI0OjU2IFBNJmhhc2hfdmFsdWU9WGhDQ1FXQ0xHeHAxZjBxakpoWURrZz09JnZhbGlkbWludXRlcz00MA=="
+                },
+                
+                {
+                    name: "Somoy Kolkatha",
+                    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk0ucD4ZYpSmvb9c__Orp_fjU6Q2nn9Ct6hg&s24x1024bb.png",
+                    link: "https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/samaykolkata.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAyOjM3OjU2IFBNJmhhc2hfdmFsdWU9dXZmWllEbkhOQ0dyd3ZZV25pbjZOQT09JnZhbGlkbWludXRlcz00MA=="
+                },
+                
+                {
+                    name: "Sananda Tv",
+                    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwemVLGlHuRLnia-tXIK6B_2peodCCYx3j9zrpiA7lW4P_nhPjgd-7_5o&s=10",
+                    link: "https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/sanandatv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAyOjM4OjQ0IFBNJmhhc2hfdmFsdWU9cTB2QW9hcjBvZXBRdE1sNnF4dGhPQT09JnZhbGlkbWludXRlcz00MA=="
+                },
+                
+                {
+                    name: "Somoy tv",
+                    image: "https://www.somoynews.tv/_nuxt/img/somoy-logo-big-2.8c0bf75.png",
+                    link: "https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/somoyt000011226615544544.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAyOjM5OjE0IFBNJmhhc2hfdmFsdWU9QUpOcG0yVWZ6U0NEVlZTbEFiR3hvdz09JnZhbGlkbWludXRlcz00MA=="
+                },
+                
+                {
+                    name: "Sangsod Tv",
+                    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThdnuXhsQ7CN-YpMFKlQu9T15lGAchXbwIsw&s",
+                    link: "https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/songsodtv-world.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAyOjQwOjExIFBNJmhhc2hfdmFsdWU9WktCRDFCODlKWlF3NlBMKzBNQmJ2Zz09JnZhbGlkbWludXRlcz00MA=="
+                },
+                
+               {
+                    name: "Hindy Hits",
+                    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2qHWJdIQsc0tEXCrcJqJUBPmuMbGE4NfEozmHozI7mltDibeNGVzFyNuH&s=10",
+                    link: "https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/tehelkatv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAyOjQwOjM4IFBNJmhhc2hfdmFsdWU9c0JvdDVhU0xPdE5DZDA3OWg3RUZyZz09JnZhbGlkbWludXRlcz00MA=="
+                },
+              
+              
+              {
+                    name: "Ten prime",
+                    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQltzKOZ_E8BwbUJhJUuRsDxYgx_y9AXl1d9HyBR_SbCH1bT84uR8ZX9ltM&s=10",
+                    link: "https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/tenprime.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAyOjQxOjA5IFBNJmhhc2hfdmFsdWU9QzNPRi8wYjJjdUxpejY1c3NzdzR2Zz09JnZhbGlkbWludXRlcz00MA=="
+                },
+                {
+                    name: "The Channel Tv",
+                    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ963k70WvqHXB4m6qxQTjhCv7CCo6FMZoWM5f8PMiPKHO4_qRBrlVQxvJX&s=10",
+                    link: "https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/thechanneltv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAyOjQxOjU0IFBNJmhhc2hfdmFsdWU9MU9hMC9hbm5CclZtd0cwZk1NSzA0UT09JnZhbGlkbWludXRlcz00MA=="
+                },
+                
+                {
+                    name: "Time Television",
+                    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDa-tB_coHRQHgZz1Cs0tgW2t6j5WKymtYOg&s",
+                    link: "https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/timetvusa.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAyOjQyOjIwIFBNJmhhc2hfdmFsdWU9c1p3QVRjbUlQOEV4bW9IYjEwT1FOQT09JnZhbGlkbWludXRlcz00MA=="
+                },
+              
+              {
+                    name: "AB Tv Usa",
+                    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_GsES-lqOwZuodct2nhgRr6Q38qEapsuVi_GmlaUzrVPhigrVDdWinNE&s=10",
+                    link: "https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/abtvusa.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAyOjQzOjIwIFBNJmhhc2hfdmFsdWU9bHBvS291VzF3MGgwQmd6Y2wyaHBrdz09JnZhbGlkbWludXRlcz00MA=="
+                },
+              {
+                    name: "V2 Beat",
+                    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkIx-Y553YpixdJ8OBgE9r8cIbnvHpDe_4Q1YN8HQhE8QJzQcO7YlFcIg&s=10",
+                    link: "https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/v2beattv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAyOjQzOjU4IFBNJmhhc2hfdmFsdWU9c294YVBseitFZ0Y0SDlubFlqcUt0QT09JnZhbGlkbWludXRlcz00MA=="
+                },
+              
+              {
+                    name: "Varandra Tv",
+                    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReI99W9kuo5wyRkJ6MYvYBjrRI9GTcE1b9JA&s",
+                    link: "https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/varendratv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAyOjQ0OjI5IFBNJmhhc2hfdmFsdWU9ejN0K0U5MVkxOVBMaWNGMGJJdi9vUT09JnZhbGlkbWludXRlcz00MA=="
+                },
+              
+              {
+                    name: "Voice of America",
+                    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMhwjUomxpcZJSkFtmWOhZy-TFTMzG4z_JmabuYbZ51mDIcN9eUp3Lg6Ib&s=10",
+                    link: "https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/voa.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAyOjQ1OjAyIFBNJmhhc2hfdmFsdWU9STFoUDZHTktucFlMTEwrTmU4NUFEdz09JnZhbGlkbWludXRlcz00MA=="
+                },
+              
+                {
+                    name: "52 Documentry",
+                    image: "https://gdb.voanews.com/9be2effe-9a8d-4c93-9327-cc6884b87fab_w1200_r1.jpg",
+                    link: "https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/voadoc.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAyOjQ1OjMyIFBNJmhhc2hfdmFsdWU9emMzUFdRbGR1bWVaL29vdUd0OTVQUT09JnZhbGlkbWludXRlcz00MA=="
+                },
+                {
+                    name: "PBN Bangla",
+                    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXRHHxKa_C2McKrW5SZdzMb1gJG4jihtflW5fIXQYPSp6YbLbPGEZOXY7j&s=10",
+                    link: "https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/pbntv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAxOjAyOjU5IFBNJmhhc2hfdmFsdWU9M2s1SmkwSDVHU0ZzeUhlQ0lvM3BWZz09JnZhbGlkbWludXRlcz02MCZpZD01"
+                },
+                {
+                    name: "Nobanno Tv",
+                    image: "https://yt3.googleusercontent.com/JBUoDY4h6HPIrcwn_uXrXz1a6UALfdVoyuCXb0Ot4nA1C7NICAqfUkRBCM0ZV33Jisb8fPF5Eg=s900-c-k-c0x00ffffff-no-rj",
+                    link: "https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/cmtv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAxMjo0ODoyNCBQTSZoYXNoX3ZhbHVlPUVtMkRYSSsvczUrd1ltQjJsWVU0VHc9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ=="
+                },
+                
+                {
+                    name: "Tv One Uk",
+                    image: "https://www.jagobd.com/wp-content/uploads/2016/02/TVONE-LOGO-Colour.png",
+                    link: "https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/tvoneuksni.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCA0OjU4OjE4IFBNJmhhc2hfdmFsdWU9NW1tL1lEd1VwT1BTcXFiRXFqWGhXZz09JnZhbGlkbWludXRlcz00MA=="
+                },
+
+
+                {
+                    name: "Deshi Tv",
+                    image: "https://www.jagobd.com/wp-content/uploads/2024/09/desitv.png",
+                    link: "https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/deshitv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCA1OjI2OjIyIFBNJmhhc2hfdmFsdWU9SkdxWlVhQ3BxaEJJY1F4aSt1WjJpUT09JnZhbGlkbWludXRlcz00MA=="
+                },
+                {
+                    name: "Deepto Tv",
+                    image: "https://upload.wikimedia.org/wikipedia/bn/b/be/%E0%A6%A6%E0%A7%80%E0%A6%AA%E0%A7%8D%E0%A6%A4_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B_%E0%A7%A8.jpg",
+                    link: "https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/deeptotv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCA1OjI2OjIyIFBNJmhhc2hfdmFsdWU9SkdxWlVhQ3BxaEJJY1F4aSt1WjJpUT09JnZhbGlkbWludXRlcz00MA=="
+                },
+                {
+                    name: "CK24 Tv",
+                    image: "https://ck24.tv/images/logo.jpg",
+                    link: "https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/kasbatv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCA2OjA2OjQ0IFBNJmhhc2hfdmFsdWU9ZzY1cmlrU0Z5MW9qWG1GTWszazU5QT09JnZhbGlkbWludXRlcz02MCZpZD01"
+                },
+            ];
+
+            // Display products function
+            function displayProducts(products) {
+                // Clear existing products
+                productsContainer.innerHTML = '';
+
+                if (products.length === 0) {
+                    // If no products found, display a message
+                    const noProductsMessage = document.createElement("p");
+                    noProductsMessage.textContent = "Missing from tigerhub";
+                    noProductsMessage.classList.add("no-products");
+                    productsContainer.appendChild(noProductsMessage);
+                } else {
+                    // Iterate through products and display each one
+                    products.forEach(product => {
+                        const productDiv = document.createElement("a");
+                        productDiv.classList.add("product");
+                        productDiv.href = product.link;
+                        productDiv.target = "_self";
+
+                        const img = document.createElement("img");
+                        img.src = product.image;
+                        img.alt = product.name;
+
+                        const productName = document.createElement("h2");
+                        productName.textContent = product.name;
+
+                        productDiv.appendChild(img);
+                        productDiv.appendChild(productName);
+
+                        productsContainer.appendChild(productDiv);
+                    });
+                }
+            }
+
+            // Initial display of products
+            displayProducts(products);
+
+            // Search button click event
+            searchButton.addEventListener("click", function () {
+                searchProducts();
+            });
+
+            // Search products function
+            function searchProducts() {
+                const searchInput = document.getElementById('searchBox').value.toLowerCase();
+                const filteredProducts = products.filter(product => product.name.toLowerCase().includes(searchInput));
+                displayProducts(filteredProducts);
+            }
+        });
+    </script>
+  
+  
+  <script>
+    // Remove specific query parameters from the URL
+    function rmurl(e, t) {
+      var r = new RegExp(/\?m=0|&m=0|\?m=1|&m=1/g);
+      return r.test(e) && (e = e.replace(r, ""), t && window.history.replaceState({}, document.title, e)), e;
+    }
+    const currentUrl = rmurl(location.toString(), !0);
+  </script>
+  
+  
+  
+  
+  
+</body>
+</html>
