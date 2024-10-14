@@ -89,7 +89,7 @@ https://app.jagobd.com.bd/live-orgin/nrb-eu.stream/playlist.m3u8
 
 #EXTINF:-1 ,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThryorwncaL7zMRfmTxdxfjUrXw6MslbKeWxX0Slu_dNZgBLF3PCruhV8&s=10" NAN TV 
 https://app.jagobd.com.bd/live-orgin/nantv.stream/playlist.m3u8
-EXTINF:-1 ,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0nbtpgwhqVc7-lIYDdjq-wD5iyUH3ndQEuQ&s"JonmoBhumi TV
+EXTINF:-1 ,tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kmrep5J46DnClPnWJl_LrJrPVNTytgp1tBgu5oYm-eLw=s900-c-k-c0x00ffffff-no-rj"JonmoBhumi TV
 https://app.jagobd.com.bd/live-orgin/jonmobhumitv.stream/playlist.m3u8
 #EXTINF:-1 ,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ1tH7un196PJNQqEHq3PxhGUmyK8RFP-EXwdNOMoM3q-aWyUqKQiG4XE&s=10"Jagoroni TV 
 https://app.jagobd.com.bd/live-orgin/jagoronitv.stream/playlist.m3u8  
@@ -298,6 +298,29 @@ https://cdn2.pishow.tv/live/115/master.m3u8
 https://cdn2.pishow.tv/live/174/master.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_National.png", DD
 https://cdn2.pishow.tv/live/178/master.m3u8
+
+sports
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xDDx80Q/star-sports-1-hindi.webp", Star Sports 1
+http://119.156.26.155:8000/play/a069/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/mXzKX0V/images-16.jpg", Star Sports 2
+http://217.20.112.199/starplushd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nn07zfh/images-17.jpg", Star Sports 3
+http://119.156.26.155:8000/play/a008/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/68dxR5k/images-18.jpg", Star Sports Select 1
+http://119.156.26.155:8000/play/a07f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/4gBhpb4/images-15.jpg", Star Sports Select 2
+http://119.156.26.155:8000/play/a07g/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/SmR8MRX/Fox-sports-1-10s.png", Fox Sports 1
+https://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
+
+
+
 
 islamic
 
