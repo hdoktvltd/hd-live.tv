@@ -11,7 +11,8 @@ http://172.16.29.34/ontest1/ontest1/181
 http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8  
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7EZRLDQROT1nnldnYx7bEok8jZlTpyZRabw&s" group-title="Grope Name", Ekhon TV
 https://app.jagobd.com.bd/live-orgin/atnbd-8-org.stream/playlist.m3u8 
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKZ7hPVm7sMFIklaQdj0UVxhQI4MWD9pc_rQ&s" group-title="Grope Name", atn bangla tv
+https://app.jagobd.com.bd/live-orgin/atnbd-8-org.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnMKVpeK2Tr5I1Q60MFZLd3qvKqsToaibeqw&s" group-title="Grope Name", atn islamic tv
 https://app.jagobd.com.bd/live-orgin/atnislamictv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpPDYYVpbP5TfpstxPfmhMr1yyAzJnEchbmA&ss" group-title="Grope Name", atn music tv
@@ -32,9 +33,6 @@ https://app.jagobd.com.bd/live-orgin/channeli-8-org.stream/playlist.m3u8
 https://app.jagobd.com.bd/live-orgin/ekattor.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.itvbd.net/contents/cache/images/1200x630x1x1184/uploads/media/2023/07/22/Independent-png-2-6bdef5cbc2e674aa57e6a40841e0c516.png?watermark=media%2F2023%2F07%2F25%2FGPI_Itv-45db956055961edd338dcf1f4063ae9f.png",independent tv
 https://app.jagobd.com.bd/live-orgin/independent-8-org.stream/playlist.m3u8
-
-
-
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqMzglzD00vjLUOHR7D9sUki2btBvXn2jlDHippV4W0y7-2iZMWmmTwr0X&s=10" group-title="Grope Name", Jamuna News
@@ -80,12 +78,13 @@ https://app.jagobd.com.bd/live-orgin/satvoff5666.stream/playlist.m3u8
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://channels.com.bd/storage/project_files/logo/2024-05-14a_n17156821814310.png",channel s tv
 https://app.jagobd.com.bd/live-orgin/channels.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgAhuvXCgj4E-Z2d87PMxXGQ79SL0qZKMiLQF2UyRJUJ9-YhAR5Lp45fCa&s=10" group-title="Grope Name", Anonda Tv
+http://global.ncare.live/live-orgin/anandatv.stream/playlist.m3u8 
 
 
 
 
-
-
+indian tv channel
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKfbaZZZ7rdDl1dY8uh97E8kcRiyfzmJNHRtErbVKPkYk2O2imNwT9DyI&s=10" group-title="Grope Name", Star Jalsha
 https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8 
@@ -114,8 +113,7 @@ https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHTyIzNmreFModGvh9yt_YMNu6pIFwhKHgrRIK_4Cw8aAwxTQygmnfXIG5&s=10" group-title="Grope Name", Cannel Europe
 https://global.ncare.live/live-orgin/channeleurope.stream/playlist.m3u8 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgAhuvXCgj4E-Z2d87PMxXGQ79SL0qZKMiLQF2UyRJUJ9-YhAR5Lp45fCa&s=10" group-title="Grope Name", Anonda Tv
-http://global.ncare.live/live-orgin/anandatv.stream/playlist.m3u8   
+  
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz8_XKoGc7ts0rBnQNnEjvtjox5BefdCwSbRXi3kRsPScpMUUAFUnvAd4&s=10" group-title="Grope Name", Tara Bangla Cinema 
 http://103.145.48.150:90/laosat24/taratv/index.m3u8  
@@ -251,6 +249,18 @@ https://cdn2.pishow.tv/live/115/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_bharati.png", DD Bharathi
 https://cdn2.pishow.tv/live/174/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_National.png", DD
 https://cdn2.pishow.tv/live/178/master.m3u8
+
+islamic
+
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mesiGG76gww2WnpFVUFbMz-s2d4IjJJVhDqJuCVscqKLY=s900-c-k-c0x00ffffff-no-rj", makkah tv
+https://app.jagobd.com.bd/live-orgin/makkah.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/6b/d7/3b/6bd73bbf88ef7770f6d5bc347ebcd755.jpg", madina tv
+https://app.jagobd.com.bd/live-orgin/madina.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2017/01/IQRA-BANGLA-TV.jpeg?x67896", iqra bangla tv office
+https://app.jagobd.com.bd/live-orgin/iqrabanglatvoffice.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/89KDTm-c-N9GOuG4CK9P7Nc6WcbgGYOLguwblg1254ho2HkuZLkXkH35iuJM19-rng=w600-h300-pc0xffffff-pd", iqra bangla tv office
+https://app.jagobd.com.bd/live-orgin/makkahtv.stream/playlist.m3u8
