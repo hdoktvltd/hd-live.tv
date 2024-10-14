@@ -48,7 +48,7 @@ https://app.jagobd.com.bd/live-orgin/somoyt000011226615544544.stream/playlist.m3
 https://global.ncare.live/live-orgin/moviebanglalink2.stream/playlist.m3u8 
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lDIrPets2sL60aHssqiKPYPG_hKToPg-pWEEwCiuujfUM=s900-c-k-c0x00ffffff-no-rj" group-title="Grope Name", My Tv
-https://mytvbangla.com/0.m3u8   
+https://app.jagobd.com.bd/live-orgin/mytv-up-off.stream/playlist.m3u8  
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW-CoN24BDOIYYKvxJdVTlmw93FG_9xEftf6SmIxPFwU2Wjz17bomQ0kDM&s=10" group-title="Grope Name", ATN Tv
 https://fifabd.xyz/STAR7c/RANAPK/star.php?id=51042       
@@ -61,7 +61,8 @@ https://entezeetv.fun/bdcast/hls/index.m3u8?id=e0cfe755&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4xCyMrYz/20241008-190041.jpg",ekushey-tv
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream1.m3u8
-
+#EXTINF:-1 ,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe7fpjLAW55jtPIwR62TGtFZuj8TQX76folg&s" Banglavision
+https://app.jagobd.com.bd/live-orgin/banglav000.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Kv340Z8G/20241008-190155.jpg",Deepto TV HD
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=1726ae10&e=.m3u8 
 
@@ -88,8 +89,6 @@ http://global.ncare.live/live-orgin/anandatv.stream/playlist.m3u8
 #EXTINF:-1 ,tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_k2OVT9KlclMpcDC7BtSActMWKbSRrJ6mF6yKk0dcDDAw=s900-c-k-c0x00ffffff-no-rj" NRB TV 
 https://app.jagobd.com.bd/live-orgin/nrb-eu.stream/playlist.m3u8
 
-#EXTINF:-1 ,tvg-logo="https://yt3.googleusercontent.com/2kw8s66dhLUegJ3XrqZSkZMfp77CRhCfYm1NurDwDB2L9sT_-CaoUix_iWjoE_t66b07JzoR=s900-c-k-c0x00ffffff-no-rj" NASA TV 
-https://app.jagobd.com.bd/live-orgin/nasatv.stream/playlist.m3u8
 
 #EXTINF:-1 ,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThryorwncaL7zMRfmTxdxfjUrXw6MslbKeWxX0Slu_dNZgBLF3PCruhV8&s=10" NAN TV 
 https://app.jagobd.com.bd/live-orgin/nantv.stream/playlist.m3u8
