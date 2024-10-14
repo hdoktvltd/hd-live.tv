@@ -56,7 +56,7 @@ https://app.jagobd.com.bd/live-orgin/rtv-sg.stream/playlist.m3u8
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=e0cfe755&e=.m3u8 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4xCyMrYz/20241008-190041.jpg",ekushey-tv
-https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream1.m3u8
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 ,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe7fpjLAW55jtPIwR62TGtFZuj8TQX76folg&s" Banglavision
 https://app.jagobd.com.bd/live-orgin/banglav000.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Kv340Z8G/20241008-190155.jpg",Deepto TV HD
