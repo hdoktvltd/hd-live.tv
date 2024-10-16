@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>?????? ??? ??? ???</title>
+</head>
+<body>
+    <div id="time-date"></div>
+
+    <script>
+        function updateTimeDate() {
+            const now = new Date();
+            const hours = now.getHours();
+            let period = '';
+
+            if (hours >= 0 && hours < 6) {
+                period = '???';
+            } else if (hours >= 6 && hours < 12) {
+                period = '????';
+            } else if (hours >= 12 && hours < 16) {
+                period = '?????';
+            } else if (hours >= 16 && hours < 20) {
+                period = '?????';
+            } else {
+                period = '???';
+            }
+
+            const banglaNumber = n => n.toString().replace(/\d/g, d => '??????????'[d]);
+            const hour = banglaNumber(now.getHours() % 12 || 12);
+            const minute = banglaNumber(now.getMinutes().toString().padStart(2, '0'));
+            const second = banglaNumber(now.getSeconds().toString().padStart(2, '0'));
+            const periodBangla = hours >= 12 ? '???????' : '?????????';
+
+            const timeStr = '??? ???: ' + period + ' ' + hour + ':' + minute + ':' + second + ' ' + periodBangla;
+            const dateStr = '?? ' + now.toLocaleDateString('bn-BD', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' });
+
+            document.getElementById('time-date').innerText = dateStr + ' ' + timeStr;
+        }
+
+        setInterval(updateTimeDate, 1000);
+        updateTimeDate(); // Initial call
+    </script>
+</body>
+</html>
