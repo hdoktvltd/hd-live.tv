@@ -7,10 +7,6 @@ http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
 https://github.com/emon-g999/RMT-LIVE-TV-/raw/f2cb89ba303e093d65ba89ecf375ca9c18bac701/lv_0_20240905033916.mp4
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co.com/rQmTNKf/20240907-003057.png",SANGSAD TV
 http://starshare.live:8080/live/Leroy123/Leroy123/413.ts
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co/kqg8DN1/20241006-151719.png",BONGO MOVIE HD
-https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/bongo-op.m3u8?id=bongo-movies
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co/6Z6yhgC/20241006-151908.png",BONGO DRAMA HD
-https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/bongo-op.m3u8?id=bongo-dramas
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://images.toffeelive.com/images/program/338/logo/240x240/mobile_logo_401499001655891091.png",RTV HD
 https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/playlist.m3u8
