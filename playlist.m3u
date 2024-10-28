@@ -1,95 +1,157 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="ATN Bangla" tvg-logo="https://edge01.iptv.digijadoo.net/static/atn_bangla.png" tvg-id="<built-in function id>" group-title="Ferdos Alom",ATN Bangla
-https://edge01.iptv.digijadoo.net/live/atn_bangla/playlist.m3u8?md5=3AnTCp8W7KiYrGezSodq9w&expires=1730058735&user=d477246e9e724f81a011b847457e71c4
-#EXTINF:-1 tvg-name="ATN News" tvg-logo="https://edge01.iptv.digijadoo.net/static/atn_news.png" tvg-id="<built-in function id>" group-title="Ferdos Alom",ATN News
-https://edge01.iptv.digijadoo.net/live/atn_news/playlist.m3u8?md5=QfK7dq-aLNuPGucRLBXUJw&expires=1730058736&user=d477246e9e724f81a011b847457e71c4
-#EXTINF:-1 tvg-name="Al Jazeera English HD" tvg-logo="https://edge01.iptv.digijadoo.net/static/al_jazeera.png" tvg-id="<built-in function id>" group-title="Ferdos Alom",Al Jazeera English HD
-https://edge01.iptv.digijadoo.net/live/al_jazeera/playlist.m3u8?md5=DlOOWmd2aao5NnlQwmQBJw&expires=1730058738&user=d477246e9e724f81a011b847457e71c4
-#EXTINF:-1 tvg-name="Ananda TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/ananda_tv.png" tvg-id="<built-in function id>" group-title="Ferdos Alom",Ananda TV
-https://edge01.iptv.digijadoo.net/live/ananda_tv/playlist.m3u8?md5=OR4wIg_it7tC7jBxYBbkwg&expires=1730058739&user=d477246e9e724f81a011b847457e71c4
-#EXTINF:-1 tvg-name="Arirang" tvg-logo="https://edge01.iptv.digijadoo.net/static/arirang.png" tvg-id="<built-in function id>" group-title="Ferdos Alom",Arirang
-https://edge01.iptv.digijadoo.net/live/arirang/playlist.m3u8?md5=mOV7hr8H3GyRWAix1IFEFw&expires=1730058741&user=d477246e9e724f81a011b847457e71c4
-#EXTINF:-1 tvg-name="Asian Tv" tvg-logo="https://edge01.iptv.digijadoo.net/static/asian_tv.png" tvg-id="<built-in function id>" group-title="Ferdos Alom",Asian Tv
-https://edge01.iptv.digijadoo.net/live/asian_tv/playlist.m3u8?md5=Cp3a2lfKgpOeFPMsx3-M9g&expires=1730058742&user=d477246e9e724f81a011b847457e71c4
-#EXTINF:-1 tvg-name="BBC Lifestyle" tvg-logo="https://edge01.iptv.digijadoo.net/static/bbc_lifestyle.png" tvg-id="<built-in function id>" group-title="Ferdos Alom",BBC Lifestyle
-https://edge01.iptv.digijadoo.net/live/bbc_lifestyle/playlist.m3u8?md5=-dlfPWgSdonoP4Wv2I3l9g&expires=1730058744&user=d477246e9e724f81a011b847457e71c4
-#EXTINF:-1 tvg-name="BBC World" tvg-logo="https://edge01.iptv.digijadoo.net/static/bbc_world.png" tvg-id="<built-in function id>" group-title="Ferdos Alom",BBC World
-https://edge01.iptv.digijadoo.net/live/bbc_world/playlist.m3u8?md5=DE2scbvQYzpDf5D51s7V1Q&expires=1730058745&user=d477246e9e724f81a011b847457e71c4
-#EXTINF:-1 tvg-name="BTV World" tvg-logo="https://edge01.iptv.digijadoo.net/static/btv_world.png" tvg-id="<built-in function id>" group-title="Ferdos Alom",BTV World
-https://edge01.iptv.digijadoo.net/live/btv_world/playlist.m3u8?md5=cd2sXky8QQDtL57Mr6_-vg&expires=1730058746&user=d477246e9e724f81a011b847457e71c4
-#EXTINF:-1 tvg-name="Bangla TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/bangla_tv.png" tvg-id="<built-in function id>" group-title="Ferdos Alom",Bangla TV
-https://edge01.iptv.digijadoo.net/live/bangla_tv/playlist.m3u8?md5=B95651TLRElGVK-kNB4N8g&expires=1730058747&user=d477246e9e724f81a011b847457e71c4
-#EXTINF:-1 tvg-name="Bangla Vision" tvg-logo="https://edge01.iptv.digijadoo.net/static/bangla_vision.png" tvg-id="<built-in function id>" group-title="Ferdos Alom",Bangla Vision
-https://edge01.iptv.digijadoo.net/live/bangla_vision/playlist.m3u8?md5=pzbIwj5FVx935xh4N0X8sw&expires=1730058749&user=d477246e9e724f81a011b847457e71c4
-#EXTINF:-1 tvg-name="Bijoy TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/bijoy_tv.png" tvg-id="<built-in function id>" group-title="Ferdos Alom",Bijoy TV
-https://edge01.iptv.digijadoo.net/live/bijoy_tv/playlist.m3u8?md5=4mtXhTXDrQys9jkawB-hUw&expires=1730058750&user=d477246e9e724f81a011b847457e71c4
-#EXTINF:-1 tvg-name="Boishakhi Tv" tvg-logo="https://edge01.iptv.digijadoo.net/static/boishakhi_tv.png" tvg-id="<built-in function id>" group-title="Ferdos Alom",Boishakhi Tv
-https://edge01.iptv.digijadoo.net/live/boishakhi_tv/playlist.m3u8?md5=KF8xeDtP_OYBn8o2ij9RLw&expires=1730058751&user=d477246e9e724f81a011b847457e71c4
-#EXTINF:-1 tvg-name="CBEEBIES Asia" tvg-logo="https://edge01.iptv.digijadoo.net/static/cbeebies_asia.png" tvg-id="<built-in function id>" group-title="Ferdos Alom",CBEEBIES Asia
-https://edge01.iptv.digijadoo.net/live/cbeebies_asia/playlist.m3u8?md5=1YOUnYhCdfFmLhC-RkgVaw&expires=1730058753&user=d477246e9e724f81a011b847457e71c4
-#EXTINF:-1 tvg-name="CGTN News" tvg-logo="https://edge01.iptv.digijadoo.net/static/cgtn_news.png" tvg-id="<built-in function id>" group-title="Ferdos Alom",CGTN News
-https://edge01.iptv.digijadoo.net/live/cgtn_news/playlist.m3u8?md5=Mxp5_cp46aT7mhETatwUPQ&expires=1730058754&user=d477246e9e724f81a011b847457e71c4
-#EXTINF:-1 tvg-name="CNN" tvg-logo="https://edge01.iptv.digijadoo.net/static/cnn.png" tvg-id="<built-in function id>" group-title="Ferdos Alom",CNN
-https://edge01.iptv.digijadoo.net/live/cnn/playlist.m3u8?md5=KOXiliS5HqNHx03ZqTSuKQ&expires=1730058755&user=d477246e9e724f81a011b847457e71c4
-#EXTINF:-1 tvg-name="Channel 24" tvg-logo="https://edge01.iptv.digijadoo.net/static/channel_24.png" tvg-id="<built-in function id>" group-title="Ferdos Alom",Channel 24
-https://edge01.iptv.digijadoo.net/live/channel_24/playlist.m3u8?md5=DA2WBR8RVgz8pwkS5cHqtw&expires=1730058756&user=d477246e9e724f81a011b847457e71c4
-#EXTINF:-1 tvg-name="Channel 9" tvg-logo="https://edge01.iptv.digijadoo.net/static/channel_9.png" tvg-id="<built-in function id>" group-title="Ferdos Alom",Channel 9
-https://edge01.iptv.digijadoo.net/live/channel_9/playlist.m3u8?md5=f2Qemr9Qurv575SyQgj-BA&expires=1730058757&user=d477246e9e724f81a011b847457e71c4
-#EXTINF:-1 tvg-name="Channel I" tvg-logo="https://edge01.iptv.digijadoo.net/static/channel_i.png" tvg-id="<built-in function id>" group-title="Ferdos Alom",Channel I
-https://edge01.iptv.digijadoo.net/live/channel_i/playlist.m3u8?md5=cve27sUnCTq-eeqycimthw&expires=1730058758&user=d477246e9e724f81a011b847457e71c4
-#EXTINF:-1 tvg-name="DBC News" tvg-logo="https://edge01.iptv.digijadoo.net/static/dbc_news.png" tvg-id="<built-in function id>" group-title="Ferdos Alom",DBC News
-https://edge01.iptv.digijadoo.net/live/dbc_news/playlist.m3u8?md5=YWIqn7mxk0uYh1xY1hDSRw&expires=1730058759&user=d477246e9e724f81a011b847457e71c4
-#EXTINF:-1 tvg-name="DW" tvg-logo="https://edge01.iptv.digijadoo.net/static/dw.png" tvg-id="<built-in function id>" group-title="Ferdos Alom",DW
-https://edge01.iptv.digijadoo.net/live/dw/playlist.m3u8?md5=8i4DMcXL4_up8W-7QXfMTQ&expires=1730058760&user=d477246e9e724f81a011b847457e71c4
-#EXTINF:-1 tvg-name="Deepto TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/deepto_tv.png" tvg-id="<built-in function id>" group-title="Ferdos Alom",Deepto TV
-https://edge01.iptv.digijadoo.net/live/deepto_tv/playlist.m3u8?md5=CrCf6FGqSkCiAs06RLyBJg&expires=1730058761&user=d477246e9e724f81a011b847457e71c4
-#EXTINF:-1 tvg-name="Desh TV"  tvg-id="<built-in function id>" group-title="Ferdos Alom",Desh TV
-https://edge01.iptv.digijadoo.net/live/desh_tv/playlist.m3u8?md5=JrKC6YWvBjcwCteBk5e1yg&expires=1730058763&user=d477246e9e724f81a011b847457e71c4
-#EXTINF:-1 tvg-name="Duronto TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/duronto_tv.png" tvg-id="<built-in function id>" group-title="Ferdos Alom",Duronto TV
-https://edge01.iptv.digijadoo.net/live/duronto_tv/playlist.m3u8?md5=KL2zVz_yKM-w4XfctAELmQ&expires=1730058764&user=d477246e9e724f81a011b847457e71c4
-#EXTINF:-1 tvg-name="Ekattor TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/ekattor_tv.png" tvg-id="<built-in function id>" group-title="Ferdos Alom",Ekattor TV
-https://edge01.iptv.digijadoo.net/live/ekattor_tv/playlist.m3u8?md5=sji-79C5Vizej3-HPovFbg&expires=1730058765&user=d477246e9e724f81a011b847457e71c4
-#EXTINF:-1 tvg-name="Ekushey TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/ekushey_tv.png" tvg-id="<built-in function id>" group-title="Ferdos Alom",Ekushey TV
-https://edge01.iptv.digijadoo.net/live/ekushey_tv/playlist.m3u8?md5=KXFB9m9XU0DdLbl9jqa8Ew&expires=1730058766&user=d477246e9e724f81a011b847457e71c4
-#EXTINF:-1 tvg-name="Fox Action Movies" tvg-logo="https://edge01.iptv.digijadoo.net/static/fox_action_movies_hd.png" tvg-id="<built-in function id>" group-title="Ferdos Alom",Fox Action Movies
-https://edge01.iptv.digijadoo.net/live/fox_action_movies_hd/playlist.m3u8?md5=miORM5nhn0jdTd7UOXA-AQ&expires=1730058767&user=d477246e9e724f81a011b847457e71c4
-#EXTINF:-1 tvg-name="Gaan Bangla" tvg-logo="https://edge01.iptv.digijadoo.net/static/gaan_bangla.png" tvg-id="<built-in function id>" group-title="Ferdos Alom",Gaan Bangla
-https://edge01.iptv.digijadoo.net/live/gaan_bangla/playlist.m3u8?md5=5toDJeASjFHRMNZxB-0_6g&expires=1730058768&user=d477246e9e724f81a011b847457e71c4
-#EXTINF:-1 tvg-name="Gazi TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/gazi_tv.png" tvg-id="<built-in function id>" group-title="Ferdos Alom",Gazi TV
-https://edge01.iptv.digijadoo.net/live/gazi_tv_hd/playlist.m3u8?md5=_nH-y77FHehZRfWbFYMCcw&expires=1730058769&user=d477246e9e724f81a011b847457e71c4
-#EXTINF:-1 tvg-name="Independent TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/independent_tv.png" tvg-id="<built-in function id>" group-title="Ferdos Alom",Independent TV
-https://edge01.iptv.digijadoo.net/live/independent_tv/playlist.m3u8?md5=L-_2di-Aqg9AsSpLinaL_A&expires=1730058771&user=d477246e9e724f81a011b847457e71c4
-#EXTINF:-1 tvg-name="Jamuna TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/jamuna_tv.png" tvg-id="<built-in function id>" group-title="Ferdos Alom",Jamuna TV
-https://edge01.iptv.digijadoo.net/live/jamuna_tv/playlist.m3u8?md5=cWySjvLIdTWOVcSDavnw9g&expires=1730058772&user=d477246e9e724f81a011b847457e71c4
-#EXTINF:-1 tvg-name="MACAU Lotus" tvg-logo="https://edge01.iptv.digijadoo.net/static/macau_lotus.png" tvg-id="<built-in function id>" group-title="Ferdos Alom",MACAU Lotus
-https://edge01.iptv.digijadoo.net/live/macau_lotus/playlist.m3u8?md5=gAC1-dDAiT0LEw_-FMCKUQ&expires=1730058773&user=d477246e9e724f81a011b847457e71c4
-#EXTINF:-1 tvg-name="Maasranga" tvg-logo="https://edge01.iptv.digijadoo.net/static/maasranga.png" tvg-id="<built-in function id>" group-title="Ferdos Alom",Maasranga
-https://edge01.iptv.digijadoo.net/live/maasranga/playlist.m3u8?md5=Wwg6xFPCpLSpGVeRmSZ86Q&expires=1730058774&user=d477246e9e724f81a011b847457e71c4
-#EXTINF:-1 tvg-name="NHK World" tvg-logo="https://edge01.iptv.digijadoo.net/static/nhk_world.png" tvg-id="<built-in function id>" group-title="Ferdos Alom",NHK World
-https://edge01.iptv.digijadoo.net/live/nhk_world/playlist.m3u8?md5=NZ40geKeP0aLrvTqCGgWrg&expires=1730058774&user=d477246e9e724f81a011b847457e71c4
-#EXTINF:-1 tvg-name="NTV" tvg-logo="https://edge01.iptv.digijadoo.net/static/ntv.png" tvg-id="<built-in function id>" group-title="Ferdos Alom",NTV
-https://edge01.iptv.digijadoo.net/live/ntv/playlist.m3u8?md5=sFGPrVZ6a_khxDcjE8nSyw&expires=1730058775&user=d477246e9e724f81a011b847457e71c4
-#EXTINF:-1 tvg-name="Nagorik TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/nagorik_tv.png" tvg-id="<built-in function id>" group-title="Ferdos Alom",Nagorik TV
-https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=OYx_cdlzHUlSN6OB8CgeSA&expires=1730058776&user=d477246e9e724f81a011b847457e71c4
-#EXTINF:-1 tvg-name="News 24 HD" tvg-logo="https://edge01.iptv.digijadoo.net/static/news_24_hd.png" tvg-id="<built-in function id>" group-title="Ferdos Alom",News 24 HD
-https://edge01.iptv.digijadoo.net/live/news_24_hd/playlist.m3u8?md5=zg_5iCaJhn4UnmPjmNUOdA&expires=1730058778&user=d477246e9e724f81a011b847457e71c4
-#EXTINF:-1 tvg-name="Nexus TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/nexus_tv.png" tvg-id="<built-in function id>" group-title="Ferdos Alom",Nexus TV
-https://edge01.iptv.digijadoo.net/live/nexus_tv/playlist.m3u8?md5=Opar0uhhWoGB6RubJmAn9w&expires=1730058778&user=d477246e9e724f81a011b847457e71c4
-#EXTINF:-1 tvg-name="Quran TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/quran_tv.png" tvg-id="<built-in function id>" group-title="Ferdos Alom",Quran TV
-https://edge01.iptv.digijadoo.net/live/quran_tv/playlist.m3u8?md5=XCkTT4PKu8ag21AMdis5jg&expires=1730058779&user=d477246e9e724f81a011b847457e71c4
-#EXTINF:-1 tvg-name="RT English" tvg-logo="https://edge01.iptv.digijadoo.net/static/rt_english.png" tvg-id="<built-in function id>" group-title="Ferdos Alom",RT English
-https://edge01.iptv.digijadoo.net/live/rt_english/playlist.m3u8?md5=vgF2JWBqQ63SEmKq47wh6g&expires=1730058780&user=d477246e9e724f81a011b847457e71c4
-#EXTINF:-1 tvg-name="RTV" tvg-logo="https://edge01.iptv.digijadoo.net/static/rtv.png" tvg-id="<built-in function id>" group-title="Ferdos Alom",RTV
-https://edge01.iptv.digijadoo.net/live/rtv/playlist.m3u8?md5=M8NWSbsbOoWhXygWN-kZag&expires=1730058781&user=d477246e9e724f81a011b847457e71c4
-#EXTINF:-1 tvg-name="SA TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/sa_tv.png" tvg-id="<built-in function id>" group-title="Ferdos Alom",SA TV
-https://edge01.iptv.digijadoo.net/live/sa_tv/playlist.m3u8?md5=YQy_UIIkfABepMwNUSHq-A&expires=1730058782&user=d477246e9e724f81a011b847457e71c4
-#EXTINF:-1 tvg-name="Somoy News" tvg-logo="https://edge01.iptv.digijadoo.net/static/somoy_news.png" tvg-id="<built-in function id>" group-title="Ferdos Alom",Somoy News
-https://edge01.iptv.digijadoo.net/live/somoy_news/playlist.m3u8?md5=s3ySBzHiEcBlDj8MQDgAqg&expires=1730058783&user=d477246e9e724f81a011b847457e71c4
-#EXTINF:-1 tvg-name="T Sports HD" tvg-logo="https://edge01.iptv.digijadoo.net/static/t_sports.png" tvg-id="<built-in function id>" group-title="Ferdos Alom",T Sports HD
-https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=g-pwJ7q5HtErS4l2Pz7_zg&expires=1730058784&user=d477246e9e724f81a011b847457e71c4
-#EXTINF:-1 tvg-name="Zee Bangla"  tvg-id="<built-in function id>" group-title="Ferdos Alom",Zee Bangla
-https://edge01.iptv.digijadoo.net/live/zee_bangla/playlist.m3u8?md5=Memt-zWlRzbq-dO8ZYSmwg&expires=1730058785&user=d477246e9e724f81a011b847457e71c4
-#EXTINF:-1 tvg-name="Zee Cinema" tvg-logo="https://edge01.iptv.digijadoo.net/static/zee_cinema.png" tvg-id="<built-in function id>" group-title="Ferdos Alom",Zee Cinema
-https://edge01.iptv.digijadoo.net/live/zee_cinema_hd/playlist.m3u8?md5=7HiiZY1AEzWgIJNySesCPw&expires=1730058786&user=d477246e9e724f81a011b847457e71c4
-#EXTINF:-1 tvg-name="Zee TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/zee_tv.png" tvg-id="<built-in function id>" group-title="Ferdos Alom",Zee TV
-https://edge01.iptv.digijadoo.net/live/zee_tv/playlist.m3u8?md5=QrY25831NPOCKYw-C5PvwQ&expires=1730058787&user=d477246e9e724f81a011b847457e71c4
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://cdn6.aptoide.com/imgs/d/b/e/dbe3b48f1cae5af4710e96377580ab1f_icon.png",PTV Sports 
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2345.ts
+#EXTINF:-1 tvg-logo="https://t4.ftcdn.net/jpg/02/36/41/51/360_F_236415197_aHuHuTomAaURIX0UKAGCdWkOGTO4qBfH.jpg" group-title="Bangla:" BTV HD
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2345.ts
+#EXTINF:-1 tvg-logo=“https://t4.ftcdn.net/jpg/02/36/41/51/360_F_236415197_aHuHuTomAaURIX0UKAGCdWkOGTO4qBfH.jpg” group-title=“Bangla” ATN BANGLA
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2341.ts
+#EXTINF:-1 tvg-logo=“https://t4.ftcdn.net/jpg/02/36/41/51/360_F_236415197_aHuHuTomAaURIX0UKAGCdWkOGTO4qBfH.jpg” group-title=“Bangla” Ekattor TV
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2176.m3u8
+#EXTINF:-1 tvg-logo=“https://t4.ftcdn.net/jpg/02/36/41/51/360_F_236415197_aHuHuTomAaURIX0UKAGCdWkOGTO4qBfH.jpg” group-title=“Bangla” Somoy TV 
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2367.m3u8
+#EXTINF:-1 tvg-logo=“https://t4.ftcdn.net/jpg/02/36/41/51/360_F_236415197_aHuHuTomAaURIX0UKAGCdWkOGTO4qBfH.jpg” group-title=“Bangla” Asian TV
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2340.m3u8
+#EXTINF:-1 tvg-logo=“https://t4.ftcdn.net/jpg/02/36/41/51/360_F_236415197_aHuHuTomAaURIX0UKAGCdWkOGTO4qBfH.jpg” group-title=“Bangla” ATN BANGLA
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2341.m3u8
+#EXTINF:-1 tvg-logo=“https://t4.ftcdn.net/jpg/02/36/41/51/360_F_236415197_aHuHuTomAaURIX0UKAGCdWkOGTO4qBfH.jpg” group-title=“Bangla” Bangla TV
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2342.m3u8
+#EXTINF:-1 tvg-logo=“https://t4.ftcdn.net/jpg/02/36/41/51/360_F_236415197_aHuHuTomAaURIX0UKAGCdWkOGTO4qBfH.jpg” group-title=“Bangla” Bangla Vision 
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2343.m3u8
+#EXTINF:-1 tvg-logo=“https://t4.ftcdn.net/jpg/02/36/41/51/360_F_236415197_aHuHuTomAaURIX0UKAGCdWkOGTO4qBfH.jpg” group-title=“Bangla” Mohona TV  
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2185.m3u8
+#EXTINF:-1 tvg-logo=“https://t4.ftcdn.net/jpg/02/36/41/51/360_F_236415197_aHuHuTomAaURIX0UKAGCdWkOGTO4qBfH.jpg” group-title=“Bangla” Boishakhi TV
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2344.m3u8
+#EXTINF:-1 tvg-logo=“https://t4.ftcdn.net/jpg/02/36/41/51/360_F_236415197_aHuHuTomAaURIX0UKAGCdWkOGTO4qBfH.jpg” group-title=“Bangla” Channel 24 
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2346.m3u8
+#EXTINF:-1 tvg-logo=“https://t4.ftcdn.net/jpg/02/36/41/51/360_F_236415197_aHuHuTomAaURIX0UKAGCdWkOGTO4qBfH.jpg” group-title=“Bangla” Channel 9 
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2347.m3u8
+#EXTINF:-1 tvg-logo=“https://t4.ftcdn.net/jpg/02/36/41/51/360_F_236415197_aHuHuTomAaURIX0UKAGCdWkOGTO4qBfH.jpg” group-title=“Bangla” Channel i
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2348.m3u8
+#EXTINF:-1 tvg-logo=“https://t4.ftcdn.net/jpg/02/36/41/51/360_F_236415197_aHuHuTomAaURIX0UKAGCdWkOGTO4qBfH.jpg” group-title=“Bangla” DBC News 
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2349.m3u8
+#EXTINF:-1 tvg-logo=“https://t4.ftcdn.net/jpg/02/36/41/51/360_F_236415197_aHuHuTomAaURIX0UKAGCdWkOGTO4qBfH.jpg” group-title=“Bangla” Deepto TV 	
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2350.m3u8
+#EXTINF:-1 tvg-logo=“https://t4.ftcdn.net/jpg/02/36/41/51/360_F_236415197_aHuHuTomAaURIX0UKAGCdWkOGTO4qBfH.jpg” group-title=“Bangla” Desh TV 
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2351.m3u8
+#EXTINF:-1 tvg-logo=“https://t4.ftcdn.net/jpg/02/36/41/51/360_F_236415197_aHuHuTomAaURIX0UKAGCdWkOGTO4qBfH.jpg” group-title=“Bangla” Duronto TV 
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2352.m3u8
+#EXTINF:-1 tvg-logo=“https://t4.ftcdn.net/jpg/02/36/41/51/360_F_236415197_aHuHuTomAaURIX0UKAGCdWkOGTO4qBfH.jpg” group-title=“Bangla” Ekushey TV 
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2354.m3u8
+#EXTINF:-1 tvg-logo=“https://t4.ftcdn.net/jpg/02/36/41/51/360_F_236415197_aHuHuTomAaURIX0UKAGCdWkOGTO4qBfH.jpg” group-title=“Bangla” Gaan  Bangla 
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2355.m3u8
+#EXTINF:-1 tvg-logo=“https://t4.ftcdn.net/jpg/02/36/41/51/360_F_236415197_aHuHuTomAaURIX0UKAGCdWkOGTO4qBfH.jpg” group-title=“Bangla” Independent TV 
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2357.m3u8
+#EXTINF:-1 tvg-logo=“https://t4.ftcdn.net/jpg/02/36/41/51/360_F_236415197_aHuHuTomAaURIX0UKAGCdWkOGTO4qBfH.jpg” group-title=“Bangla” Jamuna TV 
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2358.m3u8
+#EXTINF:-1 tvg-logo=“https://t4.ftcdn.net/jpg/02/36/41/51/360_F_236415197_aHuHuTomAaURIX0UKAGCdWkOGTO4qBfH.jpg” group-title=“Bangla” Maasranga TV 
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2359.m3u8
+#EXTINF:-1 tvg-logo=“https://t4.ftcdn.net/jpg/02/36/41/51/360_F_236415197_aHuHuTomAaURIX0UKAGCdWkOGTO4qBfH.jpg” group-title=“Bangla” Bijoy TV
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2360.m3u8
+#EXTINF:-1 tvg-logo=“https://t4.ftcdn.net/jpg/02/36/41/51/360_F_236415197_aHuHuTomAaURIX0UKAGCdWkOGTO4qBfH.jpg” group-title=“Bangla” MY TV 
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2361.m3u8
+#EXTINF:-1 tvg-logo=“https://t4.ftcdn.net/jpg/02/36/41/51/360_F_236415197_aHuHuTomAaURIX0UKAGCdWkOGTO4qBfH.jpg” group-title=“Bangla” N TV
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2364.m3u8
+#EXTINF:-1 tvg-logo=“https://t4.ftcdn.net/jpg/02/36/41/51/360_F_236415197_aHuHuTomAaURIX0UKAGCdWkOGTO4qBfH.jpg” group-title=“Bangla” R TV
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2365.m3u8
+#EXTINF:-1 tvg-logo=“https://t4.ftcdn.net/jpg/02/36/41/51/360_F_236415197_aHuHuTomAaURIX0UKAGCdWkOGTO4qBfH.jpg” group-title=“Bangla” SATV 
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2366.m3u8
+#EXTINF:-1 tvg-logo=“https://t4.ftcdn.net/jpg/02/36/41/51/360_F_236415197_aHuHuTomAaURIX0UKAGCdWkOGTO4qBfH.jpg” group-title=“India_Bangla” Star Jalsha HD
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2179.m3u8
+#EXTINF:-1 tvg-logo=“https://t4.ftcdn.net/jpg/02/36/41/51/360_F_236415197_aHuHuTomAaURIX0UKAGCdWkOGTO4qBfH.jpg” group-title=“India_Bangla” Star Jalsha  FHD
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/7951.m3u8
+
+#EXTINF:-1 tvg-logo=“https://t4.ftcdn.net/jpg/02/36/41/51/360_F_236415197_aHuHuTomAaURIX0UKAGCdWkOGTO4qBfH.jpg” group-title=“India_Bangla” Zee Bangla HD
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2180.m3u8
+#EXTINF:-1 tvg-logo=“https://t4.ftcdn.net/jpg/02/36/41/51/360_F_236415197_aHuHuTomAaURIX0UKAGCdWkOGTO4qBfH.jpg” group-title=“India_Bangla” Zee Bangla FHD
+
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/13980.m3u8
+#EXTINF:-1 tvg-logo=“https://t4.ftcdn.net/jpg/02/36/41/51/360_F_236415197_aHuHuTomAaURIX0UKAGCdWkOGTO4qBfH.jpg” group-title=“India_Bangla” Colors Bangla FHD
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2178.m3u8
+#EXTINF:-1 tvg-logo=“https://t4.ftcdn.net/jpg/02/36/41/51/360_F_236415197_aHuHuTomAaURIX0UKAGCdWkOGTO4qBfH.jpg” group-title=“India_Bangla” Jalsha Movies FHD
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2187.m3u8
+#EXTINF:-1 tvg-logo=“https://t4.ftcdn.net/jpg/02/36/41/51/360_F_236415197_aHuHuTomAaURIX0UKAGCdWkOGTO4qBfH.jpg” group-title=“India_Bangla” Zee Bangla Cinema
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/6937.m3u8
+#EXTINF:-1 tvg-logo=“https://t4.ftcdn.net/jpg/02/36/41/51/360_F_236415197_aHuHuTomAaURIX0UKAGCdWkOGTO4qBfH.jpg” group-title=“India_Bangla” Sont Aath
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2181.m3u8
+#EXTINF:-1 tvg-logo=“https://t4.ftcdn.net/jpg/02/36/41/51/360_F_236415197_aHuHuTomAaURIX0UKAGCdWkOGTO4qBfH.jpg” group-title=“India_Bangla” Aakaash Aath
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2182.m3u8
+#EXTINF:-1 tvg-logo=“https://t4.ftcdn.net/jpg/02/36/41/51/360_F_236415197_aHuHuTomAaURIX0UKAGCdWkOGTO4qBfH.jpg” group-title=“India_Bangla” Sun Bangla 
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2182.m3u8
+#EXTINF:-1 tvg-logo=“https://t4.ftcdn.net/jpg/02/36/41/51/360_F_236415197_aHuHuTomAaURIX0UKAGCdWkOGTO4qBfH.jpg” group-title=“India_Bangla” Enter 10 Bangla 
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2177.m3u8
+#EXTINF:-1 tvg-logo=“https://t4.ftcdn.net/jpg/02/36/41/51/360_F_236415197_aHuHuTomAaURIX0UKAGCdWkOGTO4qBfH.jpg” group-title=“India_Bangla” DD Bangla 
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2183.m3u8
+#EXTINF:-1 tvg-logo=“https://t4.ftcdn.net/jpg/02/36/41/51/360_F_236415197_aHuHuTomAaURIX0UKAGCdWkOGTO4qBfH.jpg” group-title=“India_Bangla” Sangeet Bangla 
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/10760.m3u8
+#EXTINF:-1 tvg-logo=“https://t4.ftcdn.net/jpg/02/36/41/51/360_F_236415197_aHuHuTomAaURIX0UKAGCdWkOGTO4qBfH.jpg” group-title=“Hindi_Moive” Sony TV HD
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2191.m3u8
+#EXTINF:-1 tvg-logo=“https://t4.ftcdn.net/jpg/02/36/41/51/360_F_236415197_aHuHuTomAaURIX0UKAGCdWkOGTO4qBfH.jpg” group-title=“Hindi_Moive” Star Plus FHD
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2196.m3u8
+#EXTINF:-1 tvg-logo=“https://t4.ftcdn.net/jpg/02/36/41/51/360_F_236415197_aHuHuTomAaURIX0UKAGCdWkOGTO4qBfH.jpg” group-title=“Hindi_Moive” Zee TV HD
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2203.m3u8
+#EXTINF:-1 tvg-logo=“https://t4.ftcdn.net/jpg/02/36/41/51/360_F_236415197_aHuHuTomAaURIX0UKAGCdWkOGTO4qBfH.jpg” group-title=“Hindi_Moive” Star Gold FHD
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2192.m3u8
+#EXTINF:-1 tvg-logo=“https://t4.ftcdn.net/jpg/02/36/41/51/360_F_236415197_aHuHuTomAaURIX0UKAGCdWkOGTO4qBfH.jpg” group-title=“Hindi_Moive” Star Gold 2 HD
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2193.m3u8
+#EXTINF:-1 tvg-logo=“https://t4.ftcdn.net/jpg/02/36/41/51/360_F_236415197_aHuHuTomAaURIX0UKAGCdWkOGTO4qBfH.jpg” group-title=“Hindi_Moive” Star Gold Select FHD
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2202.m3u8
+#EXTINF:-1 tvg-logo=“https://t4.ftcdn.net/jpg/02/36/41/51/360_F_236415197_aHuHuTomAaURIX0UKAGCdWkOGTO4qBfH.jpg” group-title=“Hindi_Moive” Zee Cinema HD
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2189.m3u8
+#EXTINF:-1 tvg-logo=“https://t4.ftcdn.net/jpg/02/36/41/51/360_F_236415197_aHuHuTomAaURIX0UKAGCdWkOGTO4qBfH.jpg” group-title=“Hindi_Moive” Sony MAX FHD
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2194.m3u8
+#EXTINF:-1 tvg-logo=“https://t4.ftcdn.net/jpg/02/36/41/51/360_F_236415197_aHuHuTomAaURIX0UKAGCdWkOGTO4qBfH.jpg” group-title=“Hindi_Moive” Sony MAX2
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2195.m3u8
+#EXTINF:-1 tvg-logo=“https://t4.ftcdn.net/jpg/02/36/41/51/360_F_236415197_aHuHuTomAaURIX0UKAGCdWkOGTO4qBfH.jpg” group-title=“Hindi_Moive” &Picture HD
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2201.m3u8
+#EXTINF:-1 tvg-logo=“https://t4.ftcdn.net/jpg/02/36/41/51/360_F_236415197_aHuHuTomAaURIX0UKAGCdWkOGTO4qBfH.jpg” group-title=“Hindi_Moive” Colors FHD
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2188.m3u8
+#EXTINF:-1 tvg-logo=“https://t4.ftcdn.net/jpg/02/36/41/51/360_F_236415197_aHuHuTomAaURIX0UKAGCdWkOGTO4qBfH.jpg” group-title=“Hindi_Moive” Colors Cineplex
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/383.m3u8
+#EXTINF:-1 tvg-logo=“https://t4.ftcdn.net/jpg/02/36/41/51/360_F_236415197_aHuHuTomAaURIX0UKAGCdWkOGTO4qBfH.jpg” group-title=“Hindi_Moive” B4U Movies
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2268.m3u8
+#EXTINF:-1 tvg-logo=“https://t4.ftcdn.net/jpg/02/36/41/51/360_F_236415197_aHuHuTomAaURIX0UKAGCdWkOGTO4qBfH.jpg” group-title=“Hindi_Moive” Zee Bollywood
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2261.m3u8
+#EXTINF:-1 tvg-logo=“https://t4.ftcdn.net/jpg/02/36/41/51/360_F_236415197_aHuHuTomAaURIX0UKAGCdWkOGTO4qBfH.jpg” group-title=“Hindi_Moive” Sony Wah 
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2272.m3u8
+#EXTINF:-1 tvg-logo=“https://t4.ftcdn.net/jpg/02/36/41/51/360_F_236415197_aHuHuTomAaURIX0UKAGCdWkOGTO4qBfH.jpg” group-title=“Kids” Star Movies FHD
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2217.m3u8
+#EXTINF:-1 tvg-logo=“https://t4.ftcdn.net/jpg/02/36/41/51/360_F_236415197_aHuHuTomAaURIX0UKAGCdWkOGTO4qBfH.jpg” group-title=“Kids” Star Movie Select  FHD  
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2218.m3u8
+#EXTINF:-1 tvg-logo=“https://t4.ftcdn.net/jpg/02/36/41/51/360_F_236415197_aHuHuTomAaURIX0UKAGCdWkOGTO4qBfH.jpg” group-title=“Kids” Sony Pix FHD
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2220.m3u8
+#EXTINF:-1 tvg-logo=“https://t4.ftcdn.net/jpg/02/36/41/51/360_F_236415197_aHuHuTomAaURIX0UKAGCdWkOGTO4qBfH.jpg” group-title=“Kids” &Flix HD
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2219.m3u8
+#EXTINF:-1 tvg-logo=“https://t4.ftcdn.net/jpg/02/36/41/51/360_F_236415197_aHuHuTomAaURIX0UKAGCdWkOGTO4qBfH.jpg” group-title=“Kids” Colors Infinity FHD
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2221.m3u8
+#EXTINF:-1 tvg-logo=“https://t4.ftcdn.net/jpg/02/36/41/51/360_F_236415197_aHuHuTomAaURIX0UKAGCdWkOGTO4qBfH.jpg” group-title=“Kids” Sony Movies 
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/259.m3u8
+#EXTINF:-1 tvg-logo=“https://t4.ftcdn.net/jpg/02/36/41/51/360_F_236415197_aHuHuTomAaURIX0UKAGCdWkOGTO4qBfH.jpg” group-title=“Kids” Doraemon
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/19005.m3u8
+#EXTINF:-1 tvg-logo=“https://t4.ftcdn.net/jpg/02/36/41/51/360_F_236415197_aHuHuTomAaURIX0UKAGCdWkOGTO4qBfH.jpg” group-title=“Kids” Shinchan
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/19978.m3u8
+#EXTINF:-1 tvg-logo=“https://t4.ftcdn.net/jpg/02/36/41/51/360_F_236415197_aHuHuTomAaURIX0UKAGCdWkOGTO4qBfH.jpg” group-title=“Kids” Nick Hindi
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2231.m3u8
+#EXTINF:-1 tvg-logo=“https://t4.ftcdn.net/jpg/02/36/41/51/360_F_236415197_aHuHuTomAaURIX0UKAGCdWkOGTO4qBfH.jpg” group-title=“Kids” Disney HD
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2227.m3u8
+#EXTINF:-1 tvg-logo=“https://t4.ftcdn.net/jpg/02/36/41/51/360_F_236415197_aHuHuTomAaURIX0UKAGCdWkOGTO4qBfH.jpg” group-title=“Kids” Pogo Hindi 
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/22288.m3u8
+#EXTINF:-1 tvg-logo=“https://t4.ftcdn.net/jpg/02/36/41/51/360_F_236415197_aHuHuTomAaURIX0UKAGCdWkOGTO4qBfH.jpg” group-title=“Kids” Hungama
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2230.m3u8
+#EXTINF:-1 tvg-logo=“https://t4.ftcdn.net/jpg/02/36/41/51/360_F_236415197_aHuHuTomAaURIX0UKAGCdWkOGTO4qBfH.jpg” group-title=“Kids” Cartoon  Network 
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2232.m3u8
+#EXTINF:-1 tvg-logo=“https://t4.ftcdn.net/jpg/02/36/41/51/360_F_236415197_aHuHuTomAaURIX0UKAGCdWkOGTO4qBfH.jpg” group-title=“Music” MTV  
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2233.m3u8
+#EXTINF:-1 tvg-logo=“https://t4.ftcdn.net/jpg/02/36/41/51/360_F_236415197_aHuHuTomAaURIX0UKAGCdWkOGTO4qBfH.jpg” group-title=“Music” Music India
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2234.m3u8
+#EXTINF:-1 tvg-logo=“https://t4.ftcdn.net/jpg/02/36/41/51/360_F_236415197_aHuHuTomAaURIX0UKAGCdWkOGTO4qBfH.jpg” group-title=“Music” B4U Music
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2237.m3u8
+#EXTINF:-1 tvg-logo=“https://t4.ftcdn.net/jpg/02/36/41/51/360_F_236415197_aHuHuTomAaURIX0UKAGCdWkOGTO4qBfH.jpg” group-title=“Music” 9XM
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/353.m3u8
+#EXTINF:-1 tvg-logo=“https://t4.ftcdn.net/jpg/02/36/41/51/360_F_236415197_aHuHuTomAaURIX0UKAGCdWkOGTO4qBfH.jpg” group-title=“World News” Al Jazeera HD
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/344.m3u8
+#EXTINF:-1 tvg-logo=“https://t4.ftcdn.net/jpg/02/36/41/51/360_F_236415197_aHuHuTomAaURIX0UKAGCdWkOGTO4qBfH.jpg” group-title=“World News” CCN
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/336.m3u8
+#EXTINF:-1 tvg-logo=“https://t4.ftcdn.net/jpg/02/36/41/51/360_F_236415197_aHuHuTomAaURIX0UKAGCdWkOGTO4qBfH.jpg” group-title=“World News” BBC News
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/696.m3u8
+#EXTINF:-1 tvg-logo=“https://t4.ftcdn.net/jpg/02/36/41/51/360_F_236415197_aHuHuTomAaURIX0UKAGCdWkOGTO4qBfH.jpg” group-title=“World News” NDTV
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/385.m3u8
