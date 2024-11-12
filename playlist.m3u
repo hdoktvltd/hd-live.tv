@@ -1,7 +1,7 @@
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/66d2FDMW/image.jpg" group-title="",Afghanistan vs Bangladesh
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jamuna-test-sample-ok.stream/playlist.m3u8
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/rMBV1xX/images.jpg" group-title="",ICC T20 Women
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla/default/manifest.mpd
 
