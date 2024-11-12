@@ -1,14 +1,19 @@
 
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/66d2FDMW/image.jpg" group-title="",Afghanistan vs Bangladesh
-https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Live Sports" group-title="",Live Toffee
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/66d2FDMW/image.jpg"group-title="Live Sports" group-title="",Live Toffee Afghanistan vs Bangladesh
 https://bdix-toffee.iptvbd.xyz/live.php?id=1c522062fe5d&e=.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Live Sports" group-title="",TOFFEE Sports VIP
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjc764PL/mobile-logo-975410001725875598.png"group-title="Live Sports" group-title="",TOFFEE Sports VIP
 https://bdix-toffee.iptvbd.xyz/live.php?id=9cc74d11cfd0&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7YZvCPxt/landscape-original-poster-492212001725875752.png"group-title="Live Sports" group-title="",Toffee Drama
 https://bdix-toffee.iptvbd.xyz/live.php?id=b1ba8efdd99d&e=.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mDyqDJKG/landscape-original-poster-021730001725875728.png"group-title="MOVIS" group-title="",TOFFEE MOVIES
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/rMBV1xX/images.jpg" group-title="",ICC T20 Women
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla/default/manifest.mpd
 
