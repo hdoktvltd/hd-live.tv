@@ -6,7 +6,7 @@ https://bdix-toffee.iptvbd.xyz/live.php?id=1c522062fe5d&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjc764PL/mobile-logo-975410001725875598.png"group-title="Live Sports" group-title="",TOFFEE Sports VIP
 https://bdix-toffee.iptvbd.xyz/live.php?id=9cc74d11cfd0&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7YZvCPxt/landscape-original-poster-492212001725875752.png"group-title="Live Sports" group-title="",Toffee Drama
-https://bdix-toffee.iptvbd.xyz/live.php?id=b1ba8efdd99d&e=.m3u8
+http://lifetvbd.xyz:8080/play/nT1_iz54gOwtRq7B7Ad-57WKn9tFwbWCO_vclofI08Q/ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mDyqDJKG/landscape-original-poster-021730001725875728.png"group-title="MOVIS" group-title="",TOFFEE MOVIES
 https://bdix-toffee.iptvbd.xyz/live.php?id=99cf56ce2888&e=.m3u8
 
@@ -36,6 +36,8 @@ https://s@d2yxu0gr4ksneg.cloudfront.net/out/v1/ed259f6465634f6382767e23f564e695/
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Xt77tPJ/images.png" group-title="",T Sports 
 https://iptvcable.netlify.app/Altogether-007/Tsports.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Xt77tPJ/images.png" group-title="",T Sports 
+http://103.190.85.38/hls/tsports.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/m0GMwF8/images.png" group-title="",G TV
 https://hotflixbd.online/gtv/tracks-v1a1/mono.m3u8
