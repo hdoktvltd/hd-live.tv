@@ -13,11 +13,10 @@ https://bdix-toffee.iptvbd.xyz/live.php?id=99cf56ce2888&e=.m3u8
 
 
 
-
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/rMBV1xX/images.jpg" group-title="",ICC T20 Women
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla/default/manifest.mpd
+https://tiger-hub.vercel.app/Live_tv/Tsports-2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/rMBV1xX/images.jpg" group-title="",ICC T20 Women
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla/default/manifest.m3u8
@@ -35,14 +34,7 @@ https://d1xm2jznwi5xzj.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/in
 https://s@d2yxu0gr4ksneg.cloudfront.net/out/v1/ed259f6465634f6382767e23f564e695/index_7.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Xt77tPJ/images.png" group-title="",T Sports 
-https://iptvcable.netlify.app/Altogether-007/Tsports.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Xt77tPJ/images.png" group-title="",T Sports 
-http://103.190.85.38/hls/tsports.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/m0GMwF8/images.png" group-title="",G TV
-https://hotflixbd.online/gtv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/m0GMwF8/images.png" group-title="",G TV
-https://hw1.jemtv.com/app/tv85/chunks.m3u8
+https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=2ge0MCVf3qweCBJtCQ2acw&expires=1732241170&user=8333f5cef8e441a0abd75ae8344d39d7
 
 Bangladesh 
 
@@ -115,6 +107,8 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/LQr3WBM/BIJOY-TV-Logo-BD.png" group-title="", Bijoy TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/bijoy00.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/m0GMwF8/images.png" group-title="",G TV
+https://hotflixbd.online/gtv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/KKqdSbq/images-1.webp" group-title="",DBC News
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/playlist.m3u8
@@ -219,7 +213,7 @@ https://shounwifi.net/api/sliv/channel.php?id=sony_aath&e=.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/CzLncgL/images-1.jpg" group-title="",Zee Bangla HD
-https://edge01.iptv.digijadoo.net/live/zee_bangla/playlist.m3u8?md5=w4pQJ_emaMaXpGaM9ojqCA&expires=1730736069&user=98fbbc7885a9470e920abab5d870f7c3
+https://edge01.iptv.digijadoo.net/live/zee_bangla/playlist.m3u8?md5=6RR4-8n9zNow_MlUMODaLg&expires=1732243653&user=98fbbc7885a9470e920abab5d870f7c3
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/PCq6jWp/Enterr10-Bangla.jpg" group-title="",Enterr 10 Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
@@ -227,7 +221,7 @@ https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3
 Documentary 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/mcWKh1G/images.png" group-title="",Discovery Bangla
-https://cdn1-freeiptv25.vercel.app/m3u/discoverybengali.m3u8
+https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/q7TRHHm/images-1.jpg" group-title="", BBC Earth 
 https://toffee.iptvbd.xyz/api/sony_bbc_earth_hd.m3u8
@@ -268,13 +262,6 @@ https://cdn3.pishow.tv/live/283/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://mediaworldwide-in.mwpsites-a.net/wp-content/uploads/2017/05/sangeet-bangla-logo.png",SANGEET BANGLA
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/index.m3u8
-
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.ibb.co/4JKq09m/Picsart-23-06-07-11-49-33-298.png",Sangeet Bangla
-
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/sangeetbangla-audio_208482_und=208000-video=2137600.m3u8
-
-
-
 
 
 SONY 
