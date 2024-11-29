@@ -11,27 +11,20 @@ http://lifetvbd.xyz:8080/play/nT1_iz54gOwtRq7B7Ad-57WKn9tFwbWCO_vclofI08Q/ts
 https://bdix-toffee.iptvbd.xyz/live.php?id=99cf56ce2888&e=.m3u8
 
 
+#EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://image.tsports.com/images/mobile_logo/1719127161-LIVE.jpg", T Sports Live 01
+#EXTVLCOPT:http-user-agent=
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1732916556:KeyName=tsports-ed25519-01:Signature=jwiuA3iCa3ghMLR6FEkt1cr7q8MsRx2WZmUyklIxuuQGM9qbn9rPdxqzggIh_5E6GFplzg6gbu3KVUTitGSMCw"}
+https://live-cdn.tsports.com/live-01/index.m3u8
+#EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://image.tsports.com/images/mobile_logo/1719672720-LIVE.jpg", T Sports Live 02
+#EXTVLCOPT:http-user-agent=
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1732916556:KeyName=tsports-ed25519-01:Signature=jwiuA3iCa3ghMLR6FEkt1cr7q8MsRx2WZmUyklIxuuQGM9qbn9rPdxqzggIh_5E6GFplzg6gbu3KVUTitGSMCw"}
+https://live-cdn.tsports.com/live-02/index.m3u8
+#EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://image.tsports.com/images/contents/thumbnail/774/mobile_logo_LIVE_6506adba5876a.jpg", T Sports Live 03
+#EXTVLCOPT:http-user-agent=
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1732916556:KeyName=tsports-ed25519-01:Signature=jwiuA3iCa3ghMLR6FEkt1cr7q8MsRx2WZmUyklIxuuQGM9qbn9rPdxqzggIh_5E6GFplzg6gbu3KVUTitGSMCw"}
+https://live-cdn.tsports.com/live-03/playlist.m3u8
 
 
-#EXTM3U
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/rMBV1xX/images.jpg" group-title="",ICC T20 Women
-https://tiger-hub.vercel.app/Live_tv/Tsports-2.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/rMBV1xX/images.jpg" group-title="",ICC T20 Women
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla/default/manifest.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/rMBV1xX/images.jpg" group-title="",Live Cricket
-https://hello-people-tv-proxy.tiiny.io/?url=http://shacktv.com:8080/live/803comb/4159355/21818.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/tmD03TM/Picsart-24-10-20-22-18-12-740.jpg" group-title="", Football Live
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/tmD03TM/Picsart-24-10-20-22-18-12-740.jpg" group-title="", Football Live
-https://d1xm2jznwi5xzj.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index_14.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/tmD03TM/Picsart-24-10-20-22-18-12-740.jpg" group-title="", Football Live
-https://s@d2yxu0gr4ksneg.cloudfront.net/out/v1/ed259f6465634f6382767e23f564e695/index_7.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Xt77tPJ/images.png" group-title="",T Sports 
 https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=2ge0MCVf3qweCBJtCQ2acw&expires=1732241170&user=8333f5cef8e441a0abd75ae8344d39d7
