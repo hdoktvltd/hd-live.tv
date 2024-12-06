@@ -16,7 +16,12 @@ https://bdix-toffee.iptvbd.xyz/live.php?id=99cf56ce2888&e=.m3u8
 https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=fgqKEA-4Pg85tycW8Kkjyw&expires=1733720218&user=98fbbc7885a9470e920abab5d870f7c3
 
 Bangladesh 
-
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/r2YjB0s.png",BTV National
+http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/2913.ts
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/r2YjB0s.png",BTV Chottogram
+http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/2912.ts
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/eJS0vGk.jpg",BTV World
+http://tv.cloudcdn.me:80/live.ts?channelId=49341&uid=14505&deviceMac=00:1A:79:A7:53:75
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vw5jDDf/Peace-TV-official-logo.png" group-title="", Peace TV
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
 
