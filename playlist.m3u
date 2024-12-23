@@ -15,6 +15,7 @@ https://bdix-toffee.iptvbd.xyz/live.php?id=99cf56ce2888&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Xt77tPJ/images.png" group-title="",T Sports 
 https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=fgqKEA-4Pg85tycW8Kkjyw&expires=1733720218&user=98fbbc7885a9470e920abab5d870f7c3
 
+
 Bangladesh 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vw5jDDf/Peace-TV-official-logo.png" group-title="", Peace TV
@@ -121,7 +122,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/chLzRXC/Nagorik-TV-Logo.png" group-title="", Nagorik TV
-https://bdixtv247.xyz/m3u8.php?id=nagorik_tv&e=.m3u8
+https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=177oqBI9NRtHTYE9H49dCA&expires=1733725192&user=98fbbc7885a9470e920abab5d870f7c3
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/pJVbjVN/images-3.jpg" group-title="",Mohona TV
@@ -246,7 +247,7 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/index.m3u8
 SONY 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7YyxS3m/Picsart-24-10-20-13-48-30-678.jpg" group-title="",Ten 1
-https://toffee.iptvbd.xyz/api/sony_ten1_hd.m3u8
+https://cflare.mooo.com/test/sonysp1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/ZgLFjYp/Sony-MAX.png" group-title="",Sony Max
 https://toffee.iptvbd.xyz/api/sony_max.m3u8
