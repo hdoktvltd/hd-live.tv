@@ -1,8 +1,8 @@
 
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/66d2FDMW/image.jpg"group-title="Live Sports" group-title="",Live Toffee Afghanistan vs Bangladesh
-https://bdix-toffee.iptvbd.xyz/live.php?id=1c522062fe5d&e=.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/C5pdrM2Q/image-171638-1736608509.jpg"group-title="Live Sports" group-title="",Live Toffee Bpl Live
+https://kala-bilay.netlify.app/NeonXByte/Sports/TsportsHD.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjc764PL/mobile-logo-975410001725875598.png"group-title="Live Sports" group-title="",TOFFEE Sports VIP
 https://bdix-toffee.iptvbd.xyz/live.php?id=9cc74d11cfd0&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7YZvCPxt/landscape-original-poster-492212001725875752.png"group-title="Live Sports" group-title="",Toffee Drama
@@ -13,10 +13,8 @@ https://bdix-toffee.iptvbd.xyz/live.php?id=99cf56ce2888&e=.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Xt77tPJ/images.png" group-title="",T Sports 
-https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=fgqKEA-4Pg85tycW8Kkjyw&expires=1733720218&user=98fbbc7885a9470e920abab5d870f7c3
+https://kala-bilay.netlify.app/NeonXByte/Sports/TsportsHD.m3u8
 
-
-Bangladesh 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vw5jDDf/Peace-TV-official-logo.png" group-title="", Peace TV
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
@@ -46,10 +44,10 @@ https://iptvbd.live/metv1080/1080.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ruposhibangla.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/rH7wmCD/images-3.jpg" group-title="", Rajdhani TV
-https://cdn.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/rajdhanitv.stream/playlist.m3u8
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/rajdhanitv.stream/live-orgin/rajdhanitv.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/23cGKTn/images-2.png" group-title="", BTV
-https://cdn.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/btvbd-office-sg.stream/playlist.m3u8
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/btvnational1.stream/live-orgin/btvnational1.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/mR7dQk1/images.png" group-title="", ATN Bangla
 https://cdn.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbd-8-org.stream/playlist.m3u8
