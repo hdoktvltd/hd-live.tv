@@ -2,7 +2,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C5pdrM2Q/image-171638-1736608509.jpg"group-title="Live Sports" group-title="",Live Toffee Bpl Live
-https://kala-bilay.netlify.app/NeonXByte/Sports/TsportsHD.m3u8
+https://live.tsports.com/live-01/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjc764PL/mobile-logo-975410001725875598.png"group-title="Live Sports" group-title="",TOFFEE Sports VIP
 https://bdix-toffee.iptvbd.xyz/live.php?id=9cc74d11cfd0&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7YZvCPxt/landscape-original-poster-492212001725875752.png"group-title="Live Sports" group-title="",Toffee Drama
