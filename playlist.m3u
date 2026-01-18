@@ -94,14 +94,14 @@ https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8
 https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/2e9e32a4-c4f7-49c3-96d6-c4e3660c7e3f/2.m3u8
 #EXTINF:-1 group-title="Indian Bangla News",ABP Ananda
 https://amg01448-samsungin-abpananda-samsungin-ad-pw.amagi.tv/playlist/amg01448-samsungin-abpananda-samsungin/playlist.m3u8
-#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/662vVv5x/ABP-Ananda.jpg",ABP Ananda
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://feeds.abplive.com/onecms/images/uploaded-images/2024/01/03/a7a105a5aea78d7f063886a48d22045f1704284190505616_original.jpeg",ABP Ananda
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/abp-ananda/1e4516fa-023a-4807-8e3d-479b346b4a62/2.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/MZQcv8Hm/Bangla-Jago.jpg",Bangla Jago
 http://banglajagotv.livebox.co.in:80/banglajagohls/24x7.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/WzhwJYDJ/DD-Bangla.jpg",DD Bangla
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index_3.m3u8
 
-#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/3wPnKf19/Sony-Aath.jpg",R Plus News
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi48_O0j0IZGFDZgm9ktByQNNUlaZ5y00XrQ&s",R Plus News
 https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/tTNPLBMs/24-Ghanta.jpg",TV9 Bangla
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
@@ -140,15 +140,8 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 
 Infotainment Channels
-#EXTINF:-1 group-title="Infotainment Channels",Wild Life
-https://wildearth-plex.amagi.tv/master.m3u8
-#EXTINF:-1 group-title="Infotainment Channels",BBC Earth
-http://65.108.239.207/bbc/index.m3u8
-#EXTINF:-1 group-title="Infotainment Channels",Discovery Channel
-http://fl1.moveonjoy.com/Discovery_Channel/index.m3u8
-#EXTINF:-1 group-title="Infotainment Channels",DISNEY JR
-http://fl1.moveonjoy.com/DISNEY_JR/index.m3u8
-#EXTINF:-1 group-title="Infotainment Channels",4k Nature
+
+#EXTINF:-1 group-title="Infotainment Channels" tvg-logo="https://play-lh.googleusercontent.com/S_3BD99n5JCxzKE139ODraxi9Ej_5RCnlJ2uIu5W3fQCcFoujwKzWATpSrkO_n9f6w",4k Nature
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8?v=1%20
 #EXTINF:-1 group-title="Infotainment Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/AccuWeather_2021.svg",ACCU WEATHER
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8?v=1
@@ -156,38 +149,21 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/
 https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560404/index.mpd
 
 NEWS world
-#EXTINF:-1 group-title="NEWS INTERNASIONAL" tvg-logo="https://is.gd/imZMIp",DW NEWS
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream02/streamPlaylist.m3u8
-#EXTINF:-1 group-title="NEWS INTERNASIONAL" tvg-logo="https://is.gd/ywX5PG",CNN NEWS
-https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
-#EXTINF:-1 group-title="NEWS INTERNASIONAL" tvg-logo="https://is.gd/ih6x8j",NDTV NEWS
-https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/master.m3u8
-#EXTINF:-1 group-title="NEWS INTERNASIONAL" tvg-logo="https://i.imgur.com/wgIUsFu.png",BBC News
-https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8?v=1
-#EXTINF:-1 group-title="NEWS INTERNASIONAL" tvg-logo="https://i.imgur.com/A1xzjOI.png",DW English
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?v=1
-#EXTINF:-1 group-title="NEWS INTERNASIONAL" tvg-logo="https://i.ibb.co/whc9vkT/download-5.png",FOX News (AU) 🛜
-https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
-#EXTINF:-1 group-title="NEWS INTERNASIONAL" tvg-logo="https://i.ibb.co/M7W5zRy/images.png",RT News (EN) 🛜
-https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
-#EXTINF:-1 group-title="NEWS INTERNASIONAL" tvg-logo="https://i.ibb.co/M7W5zRy/images.png",RTNEWS GLOBAL
-https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8?v=1
-#EXTINF:-1 group-title="NEWS INTERNASIONAL" tvg-logo="https://i.ibb.co/M7W5zRy/images.png",RT NEWS USA
-https://rt-glb.rttv.com/live/rtnews/playlist.m3u8?v=1
-#EXTINF:-1 group-title="NEWS INTERNASIONAL" tvg-logo="https://i.ibb.co/CzCnTHV/aljazeera-home-tv.png",Aljazeera HD Backup 🛜v
+
+#EXTINF:-1 group-title="NEWS INTERNASIONAL" tvg-logo="https://i.ibb.co/CzCnTHV/aljazeera-home-tv.png",Aljazeera HD Backup 
 https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
 #EXTINF:-1 group-title="NEWS INTERNASIONAL" tvg-logo="https://i.ibb.co/7kNhrmW/dw-english-home-tv.png",DW English 📶_📺
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 group-title="NEWS INTERNASIONAL" tvg-logo="https://i.postimg.cc/ZnD8CtvQ/BBC.jpg",Breaking News
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg02703-leadstory-leadstory-samsungau/playlist.m3u8
-#EXTINF:-1 group-title="NEWS INTERNASIONAL" tvg-logo="https://i.postimg.cc/vH3MKVPY/CNN.jpg",CNA News
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 group-title="NEWS INTERNASIONAL" tvg-logo="https://i.imgur.com/ldXaLJK.png",NDTV English
+
+#EXTINF:-1 group-title="NEWS INTERNASIONAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRphhG5HxHf4-SLy-L9YQlqnSk-TUvdVDn4yw&s",NDTV English
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
-#EXTINF:-1 group-title="NEWS INTERNASIONAL" tvg-logo="https://i.imgur.com/ldXaLJK.png",NDTV Hindi
+#EXTINF:-1 group-title="NEWS INTERNASIONAL" tvg-logo="https://play-lh.googleusercontent.com/SSIY-VL4eEpfz3-fRzs5sAUgWhhfaG3w-WUWu6wyAMWOW5h2qprXwAhTd3hVCodIDlWJ",NDTV Hindi
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
 #EXTINF:-1 group-title="NEWS INTERNASIONAL" tvg-logo="https://i.postimg.cc/RZJmcSt6/9XM.jpg",News Max 2
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+
 
 
 
